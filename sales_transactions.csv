@@ -1,0 +1,1601 @@
+order_id,order_date,region,sales_channel,product,category,unit_price,quantity,discount_rate,unit_cost,revenue,cost,profit
+11290,2024-01-01,East,Online,Desk,Furniture,261.04,2,0.0,168.23,522.08,336.47,185.61
+10901,2024-01-02,West,Online,Office Chair,Furniture,216.34,3,0.0,138.15,649.02,414.45,234.57
+11520,2024-01-02,North,Retail,Smartphone,Electronics,695.87,1,0.0,494.04,695.87,494.04,201.83
+11474,2024-01-02,West,Retail,Desk,Furniture,321.13,1,0.0,190.85,321.13,190.85,130.28
+10175,2024-01-03,East,Retail,Smartphone,Electronics,566.42,2,0.05,407.61,1076.2,815.22,260.98
+11356,2024-01-03,North,Retail,Laptop,Electronics,969.38,1,0.2,516.55,775.5,516.55,258.95
+11025,2024-01-03,South,Retail,Coffee Maker,Home,151.22,1,0.0,101.83,151.22,101.83,49.39
+10334,2024-01-03,East,Online,Notebook,Stationery,7.71,1,0.0,4.0,7.71,4.0,3.71
+10277,2024-01-03,North,Retail,Headphones,Accessories,45.65,1,0.0,22.5,45.65,22.5,23.15
+11532,2024-01-04,West,Retail,Smartphone,Electronics,745.1,1,0.0,396.86,745.1,396.86,348.24
+11517,2024-01-04,West,Online,Smartphone,Electronics,637.92,1,0.1,468.32,574.13,468.32,105.81
+10044,2024-01-05,West,Online,Headphones,Accessories,61.3,1,0.0,47.69,61.3,47.69,13.61
+10097,2024-01-05,West,Partner,Headphones,Accessories,78.41,2,0.0,60.45,156.82,120.9,35.92
+10494,2024-01-06,South,Retail,Headphones,Accessories,37.57,2,0.2,20.77,60.11,41.54,18.57
+11541,2024-01-06,North,Partner,Notebook,Stationery,6.65,2,0.0,4.8,13.3,9.6,3.7
+10360,2024-01-07,West,Online,Coffee Maker,Home,107.72,1,0.0,60.69,107.72,60.69,47.03
+11479,2024-01-07,West,Retail,Office Chair,Furniture,169.55,1,0.0,110.54,169.55,110.54,59.01
+11300,2024-01-07,West,Retail,Headphones,Accessories,112.84,2,0.0,83.39,225.68,166.78,58.9
+10996,2024-01-08,North,Partner,Office Chair,Furniture,200.52,3,0.0,117.86,601.56,353.59,247.97
+11241,2024-01-09,South,Online,Notebook,Stationery,2.67,1,0.0,1.77,2.67,1.77,0.9
+11270,2024-01-09,West,Online,Desk,Furniture,111.46,2,0.2,86.7,178.34,173.4,4.94
+10583,2024-01-09,East,Retail,Smartphone,Electronics,587.47,1,0.2,379.91,469.98,379.91,90.07
+10257,2024-01-09,South,Online,Notebook,Stationery,7.06,1,0.1,4.19,6.35,4.19,2.16
+10377,2024-01-09,South,Online,Backpack,Accessories,81.3,1,0.05,41.01,77.23,41.01,36.22
+11072,2024-01-09,East,Online,Coffee Maker,Home,97.25,2,0.2,63.94,155.6,127.89,27.71
+10109,2024-01-10,South,Retail,Laptop,Electronics,1005.26,1,0.0,715.3,1005.26,715.3,289.96
+10960,2024-01-10,South,Retail,Desk,Furniture,222.46,1,0.05,116.21,211.34,116.21,95.13
+10958,2024-01-10,South,Online,Desk,Furniture,311.92,1,0.0,199.96,311.92,199.96,111.96
+11089,2024-01-10,West,Retail,Office Chair,Furniture,193.49,1,0.0,145.28,193.49,145.28,48.21
+10479,2024-01-11,East,Online,Coffee Maker,Home,178.91,1,0.15,100.83,152.07,100.83,51.24
+11207,2024-01-11,North,Online,Coffee Maker,Home,132.5,2,0.0,91.2,265.0,182.41,82.59
+11156,2024-01-11,East,Online,Laptop,Electronics,1106.82,1,0.0,840.83,1106.82,840.83,265.99
+10968,2024-01-12,West,Retail,Smartphone,Electronics,578.52,1,0.0,280.06,578.52,280.06,298.46
+10800,2024-01-12,East,Retail,Blender,Home,84.1,2,0.1,44.29,151.38,88.58,62.8
+11562,2024-01-12,East,Retail,Coffee Maker,Home,114.29,3,0.0,68.73,342.87,206.2,136.67
+10308,2024-01-12,East,Retail,Coffee Maker,Home,50.46,1,0.1,29.32,45.41,29.32,16.09
+10225,2024-01-12,West,Retail,Headphones,Accessories,64.78,1,0.0,46.61,64.78,46.61,18.17
+10202,2024-01-12,North,Retail,Backpack,Accessories,48.01,2,0.0,25.43,96.02,50.86,45.16
+10723,2024-01-12,North,Online,Laptop,Electronics,973.77,1,0.0,628.86,973.77,628.86,344.91
+11580,2024-01-12,North,Retail,Notebook,Stationery,7.74,1,0.0,4.92,7.74,4.92,2.82
+10750,2024-01-13,East,Online,Notebook,Stationery,7.83,1,0.0,5.02,7.83,5.02,2.81
+10745,2024-01-13,South,Online,Desk,Furniture,186.46,2,0.0,102.15,372.92,204.31,168.61
+11105,2024-01-13,West,Retail,Smartphone,Electronics,557.19,1,0.05,294.67,529.33,294.67,234.66
+11211,2024-01-14,North,Online,Blender,Home,49.25,1,0.1,32.45,44.33,32.45,11.88
+10993,2024-01-14,South,Online,Notebook,Stationery,3.79,1,0.05,2.86,3.6,2.86,0.74
+10184,2024-01-14,South,Retail,Headphones,Accessories,76.3,2,0.05,48.82,144.97,97.64,47.33
+10143,2024-01-14,East,Online,Backpack,Accessories,69.91,2,0.0,44.83,139.82,89.66,50.16
+10452,2024-01-15,East,Retail,Notebook,Stationery,5.32,1,0.15,3.56,4.52,3.56,0.96
+10456,2024-01-15,West,Online,Smartphone,Electronics,490.71,3,0.0,305.33,1472.13,915.98,556.15
+10848,2024-01-15,West,Retail,Blender,Home,83.44,2,0.0,48.88,166.88,97.77,69.11
+10998,2024-01-15,North,Partner,Laptop,Electronics,914.19,2,0.0,542.31,1828.38,1084.63,743.75
+11294,2024-01-15,East,Online,Headphones,Accessories,98.61,1,0.0,60.56,98.61,60.56,38.05
+10859,2024-01-16,West,Partner,Headphones,Accessories,82.82,2,0.0,46.49,165.64,92.97,72.67
+11354,2024-01-16,South,Online,Headphones,Accessories,123.85,1,0.05,96.16,117.66,96.16,21.5
+10310,2024-01-17,North,Retail,Smartphone,Electronics,846.35,2,0.15,635.35,1438.8,1270.69,168.11
+10941,2024-01-17,South,Partner,Headphones,Accessories,94.75,1,0.05,68.79,90.01,68.79,21.22
+10186,2024-01-17,West,Online,Coffee Maker,Home,176.22,1,0.0,91.96,176.22,91.96,84.26
+11337,2024-01-18,North,Retail,Smartphone,Electronics,454.07,1,0.0,316.64,454.07,316.64,137.43
+11256,2024-01-19,North,Retail,Notebook,Stationery,2.56,2,0.0,1.68,5.12,3.36,1.76
+10297,2024-01-19,South,Retail,Backpack,Accessories,25.71,3,0.0,19.7,77.13,59.1,18.03
+10258,2024-01-19,East,Retail,Smartphone,Electronics,848.41,1,0.1,570.0,763.57,570.0,193.57
+10156,2024-01-20,West,Retail,Blender,Home,85.81,2,0.05,41.61,163.04,83.23,79.81
+10542,2024-01-20,North,Retail,Desk,Furniture,141.72,2,0.0,100.99,283.44,201.99,81.45
+10462,2024-01-20,South,Online,Smartphone,Electronics,640.13,1,0.0,390.22,640.13,390.22,249.91
+10620,2024-01-20,South,Online,Laptop,Electronics,988.01,1,0.0,746.33,988.01,746.33,241.68
+11078,2024-01-20,North,Online,Office Chair,Furniture,182.5,2,0.15,96.17,310.25,192.35,117.9
+11574,2024-01-21,East,Online,Notebook,Stationery,5.32,2,0.2,3.08,8.51,6.16,2.35
+10029,2024-01-21,East,Retail,Smartphone,Electronics,503.02,2,0.0,358.31,1006.04,716.63,289.41
+10513,2024-01-21,North,Online,Laptop,Electronics,863.97,1,0.05,451.58,820.77,451.58,369.19
+11190,2024-01-21,West,Retail,Coffee Maker,Home,148.03,1,0.0,85.94,148.03,85.94,62.09
+10618,2024-01-21,West,Online,Headphones,Accessories,111.23,1,0.0,74.49,111.23,74.49,36.74
+11234,2024-01-21,South,Online,Blender,Home,117.57,2,0.1,65.11,211.63,130.22,81.41
+11442,2024-01-22,West,Partner,Laptop,Electronics,868.95,1,0.0,659.7,868.95,659.7,209.25
+10862,2024-01-22,South,Retail,Blender,Home,104.89,1,0.1,62.68,94.4,62.68,31.72
+10644,2024-01-23,North,Retail,Headphones,Accessories,55.15,1,0.05,28.3,52.39,28.3,24.09
+10454,2024-01-23,East,Online,Smartphone,Electronics,791.45,1,0.1,510.68,712.31,510.68,201.63
+10539,2024-01-23,East,Retail,Smartphone,Electronics,764.73,3,0.0,435.75,2294.19,1307.25,986.94
+10811,2024-01-24,East,Retail,Laptop,Electronics,939.99,2,0.05,526.38,1785.98,1052.75,733.23
+11506,2024-01-24,East,Online,Desk,Furniture,147.92,1,0.2,99.15,118.34,99.15,19.19
+10825,2024-01-24,East,Online,Notebook,Stationery,3.55,2,0.0,2.3,7.1,4.6,2.5
+10608,2024-01-25,East,Online,Smartphone,Electronics,572.38,1,0.0,386.88,572.38,386.88,185.5
+10640,2024-01-26,West,Online,Notebook,Stationery,6.39,1,0.1,3.46,5.75,3.46,2.29
+10158,2024-01-26,West,Online,Coffee Maker,Home,90.86,1,0.0,53.84,90.86,53.84,37.02
+10488,2024-01-26,East,Retail,Smartphone,Electronics,759.35,2,0.05,491.58,1442.76,983.15,459.61
+11099,2024-01-26,North,Partner,Notebook,Stationery,5.74,2,0.05,4.22,10.91,8.44,2.47
+11577,2024-01-26,South,Retail,Notebook,Stationery,3.29,1,0.15,1.66,2.8,1.66,1.14
+11342,2024-01-27,West,Retail,Notebook,Stationery,4.57,1,0.0,2.82,4.57,2.82,1.75
+10466,2024-01-27,South,Online,Blender,Home,48.09,2,0.0,32.51,96.18,65.02,31.16
+10558,2024-01-27,East,Retail,Desk,Furniture,246.9,4,0.0,177.82,987.6,711.27,276.33
+10301,2024-01-28,West,Retail,Notebook,Stationery,2.41,2,0.0,1.81,4.82,3.63,1.19
+10592,2024-01-28,East,Online,Office Chair,Furniture,242.3,1,0.15,136.42,205.96,136.42,69.54
+11150,2024-01-28,East,Online,Notebook,Stationery,5.63,1,0.0,4.25,5.63,4.25,1.38
+10749,2024-01-28,East,Retail,Notebook,Stationery,4.09,2,0.0,2.11,8.18,4.21,3.97
+10035,2024-01-29,South,Online,Office Chair,Furniture,204.71,2,0.0,125.7,409.42,251.41,158.01
+10767,2024-01-29,East,Online,Smartphone,Electronics,765.29,1,0.0,594.58,765.29,594.58,170.71
+10658,2024-01-30,West,Retail,Headphones,Accessories,97.84,1,0.0,55.48,97.84,55.48,42.36
+10195,2024-01-31,West,Partner,Smartphone,Electronics,478.98,3,0.0,326.95,1436.94,980.86,456.08
+11033,2024-01-31,North,Retail,Desk,Furniture,150.68,1,0.0,105.57,150.68,105.57,45.11
+10520,2024-02-01,East,Online,Notebook,Stationery,5.4,1,0.0,3.55,5.4,3.55,1.85
+10026,2024-02-01,South,Retail,Smartphone,Electronics,706.18,1,0.1,510.94,635.56,510.94,124.62
+11452,2024-02-01,North,Online,Coffee Maker,Home,113.57,1,0.05,59.01,107.89,59.01,48.88
+10563,2024-02-02,South,Online,Notebook,Stationery,3.9,2,0.0,2.35,7.8,4.71,3.09
+10028,2024-02-03,West,Online,Laptop,Electronics,934.71,1,0.0,468.66,934.71,468.66,466.05
+10662,2024-02-03,North,Online,Notebook,Stationery,5.97,1,0.0,4.44,5.97,4.44,1.53
+10347,2024-02-03,East,Online,Backpack,Accessories,47.54,1,0.0,23.58,47.54,23.58,23.96
+10963,2024-02-04,North,Partner,Smartphone,Electronics,664.49,2,0.0,348.04,1328.98,696.08,632.9
+10642,2024-02-05,North,Retail,Notebook,Stationery,6.96,1,0.0,4.27,6.96,4.27,2.69
+11292,2024-02-05,West,Online,Coffee Maker,Home,98.95,2,0.05,48.17,188.0,96.34,91.66
+10690,2024-02-05,West,Online,Desk,Furniture,145.86,3,0.0,99.24,437.58,297.73,139.85
+10668,2024-02-06,North,Retail,Backpack,Accessories,87.81,3,0.0,56.81,263.43,170.43,93.0
+10176,2024-02-06,South,Partner,Laptop,Electronics,1247.24,1,0.1,877.28,1122.52,877.28,245.24
+10060,2024-02-06,West,Retail,Smartphone,Electronics,812.36,4,0.0,408.98,3249.44,1635.92,1613.52
+11350,2024-02-07,North,Online,Smartphone,Electronics,669.88,1,0.0,406.9,669.88,406.9,262.98
+11115,2024-02-07,South,Online,Backpack,Accessories,32.4,1,0.0,24.45,32.4,24.45,7.95
+10747,2024-02-07,North,Online,Headphones,Accessories,100.71,1,0.0,74.21,100.71,74.21,26.5
+10785,2024-02-07,South,Retail,Backpack,Accessories,75.58,1,0.05,55.52,71.8,55.52,16.28
+10090,2024-02-07,West,Retail,Desk,Furniture,225.97,1,0.0,160.93,225.97,160.93,65.04
+11490,2024-02-08,East,Partner,Office Chair,Furniture,116.7,1,0.05,83.17,110.86,83.17,27.69
+10320,2024-02-08,East,Retail,Backpack,Accessories,89.32,2,0.0,47.49,178.64,94.97,83.67
+11157,2024-02-08,North,Online,Laptop,Electronics,894.55,3,0.0,498.37,2683.65,1495.12,1188.53
+11548,2024-02-09,East,Retail,Blender,Home,99.06,2,0.15,54.38,168.4,108.75,59.65
+10498,2024-02-09,East,Partner,Coffee Maker,Home,159.73,4,0.05,113.52,606.97,454.09,152.88
+10886,2024-02-09,East,Retail,Headphones,Accessories,113.44,1,0.05,79.63,107.77,79.63,28.14
+11500,2024-02-10,North,Retail,Coffee Maker,Home,153.3,1,0.0,95.31,153.3,95.31,57.99
+11346,2024-02-10,South,Online,Coffee Maker,Home,82.65,3,0.15,52.92,210.76,158.77,51.99
+10125,2024-02-11,North,Online,Laptop,Electronics,1139.5,1,0.1,832.59,1025.55,832.59,192.96
+10300,2024-02-11,East,Retail,Coffee Maker,Home,144.96,3,0.0,74.37,434.88,223.12,211.76
+10728,2024-02-11,West,Online,Laptop,Electronics,1049.02,1,0.05,579.26,996.57,579.26,417.31
+10845,2024-02-11,North,Retail,Laptop,Electronics,952.03,2,0.1,593.21,1713.65,1186.42,527.23
+10261,2024-02-12,East,Retail,Smartphone,Electronics,842.89,3,0.0,585.37,2528.67,1756.1,772.57
+11343,2024-02-12,South,Online,Office Chair,Furniture,117.72,2,0.1,85.46,211.9,170.91,40.99
+10569,2024-02-12,North,Retail,Headphones,Accessories,108.7,1,0.0,69.52,108.7,69.52,39.18
+10869,2024-02-12,South,Online,Laptop,Electronics,1019.75,2,0.0,576.91,2039.5,1153.82,885.68
+10560,2024-02-13,South,Retail,Desk,Furniture,162.39,1,0.1,89.78,146.15,89.78,56.37
+11132,2024-02-13,East,Online,Desk,Furniture,333.87,1,0.0,216.94,333.87,216.94,116.93
+10314,2024-02-14,West,Retail,Headphones,Accessories,132.87,1,0.0,91.89,132.87,91.89,40.98
+11196,2024-02-14,East,Online,Smartphone,Electronics,491.16,3,0.05,346.63,1399.81,1039.89,359.92
+11516,2024-02-14,West,Online,Headphones,Accessories,126.86,1,0.0,69.44,126.86,69.44,57.42
+11534,2024-02-15,East,Online,Blender,Home,114.61,2,0.0,63.59,229.22,127.19,102.03
+10115,2024-02-15,North,Online,Smartphone,Electronics,531.74,1,0.1,377.14,478.57,377.14,101.43
+10586,2024-02-15,North,Partner,Coffee Maker,Home,68.19,1,0.05,51.88,64.78,51.88,12.9
+10268,2024-02-16,North,Online,Smartphone,Electronics,816.67,2,0.15,494.09,1388.34,988.19,400.15
+11217,2024-02-16,North,Partner,Headphones,Accessories,60.08,1,0.0,31.99,60.08,31.99,28.09
+11069,2024-02-17,East,Online,Laptop,Electronics,1186.03,1,0.2,825.37,948.82,825.37,123.45
+10007,2024-02-17,West,Online,Blender,Home,66.3,3,0.0,46.34,198.9,139.02,59.88
+11007,2024-02-18,North,Partner,Backpack,Accessories,59.78,3,0.0,35.38,179.34,106.15,73.19
+10446,2024-02-20,North,Online,Blender,Home,119.84,1,0.1,88.53,107.86,88.53,19.33
+10657,2024-02-20,West,Online,Notebook,Stationery,3.79,1,0.0,1.82,3.79,1.82,1.97
+10912,2024-02-20,East,Online,Notebook,Stationery,6.32,3,0.0,4.38,18.96,13.13,5.83
+11478,2024-02-22,South,Online,Backpack,Accessories,26.13,2,0.0,19.3,52.26,38.6,13.66
+10803,2024-02-22,South,Online,Notebook,Stationery,4.6,3,0.0,2.43,13.8,7.28,6.52
+10777,2024-02-22,West,Online,Coffee Maker,Home,132.87,1,0.0,73.56,132.87,73.56,59.31
+10874,2024-02-22,East,Online,Headphones,Accessories,138.25,2,0.05,107.45,262.68,214.89,47.79
+10246,2024-02-22,West,Partner,Notebook,Stationery,2.1,3,0.1,1.46,5.67,4.39,1.28
+11468,2024-02-22,West,Retail,Smartphone,Electronics,652.38,1,0.0,352.48,652.38,352.48,299.9
+11077,2024-02-23,East,Online,Desk,Furniture,242.74,1,0.05,180.74,230.6,180.74,49.86
+10113,2024-02-24,East,Online,Headphones,Accessories,114.23,2,0.1,56.08,205.61,112.16,93.45
+10709,2024-02-24,North,Online,Office Chair,Furniture,107.02,2,0.2,79.1,171.23,158.19,13.04
+11443,2024-02-24,West,Online,Smartphone,Electronics,814.06,1,0.05,465.61,773.36,465.61,307.75
+10821,2024-02-24,South,Partner,Laptop,Electronics,1237.59,1,0.0,675.57,1237.59,675.57,562.02
+10366,2024-02-24,East,Retail,Office Chair,Furniture,127.66,1,0.0,67.16,127.66,67.16,60.5
+11195,2024-02-24,East,Online,Notebook,Stationery,4.39,1,0.1,3.4,3.95,3.4,0.55
+10746,2024-02-25,West,Online,Office Chair,Furniture,246.16,1,0.0,131.67,246.16,131.67,114.49
+11557,2024-02-26,East,Partner,Backpack,Accessories,79.96,1,0.0,60.42,79.96,60.42,19.54
+10025,2024-02-26,South,Online,Notebook,Stationery,6.26,2,0.05,4.0,11.89,8.01,3.88
+10013,2024-02-27,East,Online,Coffee Maker,Home,147.6,1,0.1,112.41,132.84,112.41,20.43
+10580,2024-02-27,South,Retail,Headphones,Accessories,138.35,1,0.0,72.61,138.35,72.61,65.74
+11147,2024-02-27,North,Online,Blender,Home,101.42,1,0.0,73.35,101.42,73.35,28.07
+10663,2024-02-28,West,Retail,Smartphone,Electronics,650.49,2,0.0,337.25,1300.98,674.49,626.49
+11377,2024-02-28,North,Online,Coffee Maker,Home,133.98,1,0.0,84.42,133.98,84.42,49.56
+10990,2024-02-28,North,Online,Notebook,Stationery,4.0,3,0.0,2.91,12.0,8.72,3.28
+11284,2024-02-28,North,Retail,Coffee Maker,Home,133.06,1,0.1,78.57,119.75,78.57,41.18
+11476,2024-02-28,South,Retail,Desk,Furniture,219.43,2,0.1,118.34,394.97,236.67,158.3
+10138,2024-02-28,North,Retail,Office Chair,Furniture,220.1,1,0.15,153.57,187.08,153.57,33.51
+10159,2024-02-29,East,Partner,Blender,Home,58.77,1,0.0,37.01,58.77,37.01,21.76
+11581,2024-03-01,South,Partner,Notebook,Stationery,5.94,2,0.0,4.11,11.88,8.23,3.65
+10572,2024-03-01,North,Retail,Notebook,Stationery,4.61,1,0.0,2.25,4.61,2.25,2.36
+11263,2024-03-02,South,Online,Headphones,Accessories,37.6,1,0.15,29.3,31.96,29.3,2.66
+10907,2024-03-02,East,Online,Desk,Furniture,133.62,2,0.1,101.28,240.52,202.56,37.96
+11432,2024-03-03,West,Online,Coffee Maker,Home,123.28,1,0.0,67.29,123.28,67.29,55.99
+10131,2024-03-03,North,Retail,Smartphone,Electronics,789.07,1,0.0,380.79,789.07,380.79,408.28
+10392,2024-03-03,South,Partner,Smartphone,Electronics,533.9,1,0.1,303.57,480.51,303.57,176.94
+10722,2024-03-03,West,Online,Office Chair,Furniture,229.3,2,0.1,113.22,412.74,226.45,186.29
+10915,2024-03-04,North,Online,Backpack,Accessories,69.28,2,0.05,38.9,131.63,77.8,53.83
+11444,2024-03-04,North,Online,Laptop,Electronics,1000.36,3,0.1,770.2,2700.97,2310.6,390.37
+11416,2024-03-04,West,Retail,Notebook,Stationery,6.0,1,0.0,4.02,6.0,4.02,1.98
+10009,2024-03-05,South,Online,Smartphone,Electronics,813.04,2,0.0,457.12,1626.08,914.25,711.83
+10410,2024-03-05,South,Retail,Backpack,Accessories,82.97,2,0.0,63.56,165.94,127.11,38.83
+11513,2024-03-06,South,Retail,Coffee Maker,Home,84.53,2,0.15,55.14,143.7,110.27,33.43
+10213,2024-03-06,South,Online,Smartphone,Electronics,458.1,1,0.0,249.68,458.1,249.68,208.42
+11579,2024-03-07,West,Online,Backpack,Accessories,54.25,1,0.2,27.95,43.4,27.95,15.45
+11233,2024-03-07,West,Online,Smartphone,Electronics,506.54,1,0.0,384.98,506.54,384.98,121.56
+10994,2024-03-08,North,Online,Smartphone,Electronics,791.7,2,0.15,449.64,1345.89,899.29,446.6
+10870,2024-03-08,North,Partner,Smartphone,Electronics,650.72,1,0.0,349.45,650.72,349.45,301.27
+10319,2024-03-08,West,Partner,Headphones,Accessories,106.54,1,0.15,73.74,90.56,73.74,16.82
+10217,2024-03-09,South,Partner,Smartphone,Electronics,839.8,1,0.0,508.94,839.8,508.94,330.86
+11460,2024-03-09,East,Retail,Headphones,Accessories,84.52,2,0.0,57.29,169.04,114.57,54.47
+10423,2024-03-09,East,Retail,Laptop,Electronics,1020.97,1,0.0,496.3,1020.97,496.3,524.67
+11287,2024-03-10,East,Online,Office Chair,Furniture,240.78,1,0.1,122.47,216.7,122.47,94.23
+11047,2024-03-10,South,Online,Smartphone,Electronics,709.29,2,0.2,542.27,1134.86,1084.54,50.32
+10052,2024-03-10,North,Online,Laptop,Electronics,1027.14,1,0.1,768.21,924.43,768.21,156.22
+10263,2024-03-10,West,Online,Headphones,Accessories,109.63,4,0.05,53.94,416.59,215.78,200.81
+10625,2024-03-10,East,Online,Backpack,Accessories,45.87,1,0.05,32.32,43.58,32.32,11.26
+10394,2024-03-11,East,Online,Blender,Home,39.54,1,0.0,20.52,39.54,20.52,19.02
+10827,2024-03-11,South,Online,Coffee Maker,Home,160.3,1,0.1,87.99,144.27,87.99,56.28
+10805,2024-03-11,South,Online,Smartphone,Electronics,482.06,1,0.0,288.51,482.06,288.51,193.55
+10079,2024-03-11,South,Retail,Desk,Furniture,169.53,1,0.1,104.17,152.58,104.17,48.41
+10957,2024-03-11,East,Online,Notebook,Stationery,5.85,1,0.0,4.39,5.85,4.39,1.46
+10224,2024-03-12,West,Online,Backpack,Accessories,42.12,1,0.2,23.03,33.7,23.03,10.67
+10949,2024-03-12,West,Online,Notebook,Stationery,5.45,1,0.0,3.05,5.45,3.05,2.4
+11575,2024-03-12,South,Online,Smartphone,Electronics,694.38,2,0.1,426.78,1249.88,853.55,396.33
+10367,2024-03-12,North,Online,Notebook,Stationery,5.89,2,0.0,3.31,11.78,6.62,5.16
+10843,2024-03-13,East,Partner,Desk,Furniture,263.97,1,0.0,156.55,263.97,156.55,107.42
+10754,2024-03-13,East,Online,Office Chair,Furniture,236.74,1,0.0,139.51,236.74,139.51,97.23
+10655,2024-03-13,West,Retail,Notebook,Stationery,3.69,3,0.0,1.99,11.07,5.97,5.1
+10995,2024-03-13,West,Partner,Backpack,Accessories,45.7,2,0.0,30.63,91.4,61.25,30.15
+11315,2024-03-14,West,Partner,Laptop,Electronics,1149.44,1,0.0,727.94,1149.44,727.94,421.5
+10006,2024-03-14,West,Online,Backpack,Accessories,58.56,2,0.0,40.24,117.12,80.48,36.64
+11319,2024-03-14,South,Retail,Blender,Home,95.08,1,0.0,58.08,95.08,58.08,37.0
+11554,2024-03-15,East,Online,Headphones,Accessories,119.29,1,0.0,80.62,119.29,80.62,38.67
+10689,2024-03-15,East,Retail,Blender,Home,111.57,1,0.0,83.22,111.57,83.22,28.35
+11427,2024-03-15,North,Retail,Laptop,Electronics,1045.07,2,0.0,735.04,2090.14,1470.09,620.05
+11539,2024-03-16,South,Retail,Notebook,Stationery,5.67,1,0.05,2.79,5.39,2.79,2.6
+10786,2024-03-16,East,Online,Headphones,Accessories,51.46,2,0.15,27.06,87.48,54.12,33.36
+10244,2024-03-16,North,Retail,Desk,Furniture,159.58,1,0.0,97.75,159.58,97.75,61.83
+11595,2024-03-17,East,Retail,Notebook,Stationery,6.97,1,0.0,5.19,6.97,5.19,1.78
+10997,2024-03-18,South,Retail,Coffee Maker,Home,166.87,1,0.0,98.47,166.87,98.47,68.4
+10955,2024-03-18,South,Online,Backpack,Accessories,76.15,1,0.2,46.35,60.92,46.35,14.57
+10280,2024-03-18,South,Online,Notebook,Stationery,6.22,2,0.0,3.98,12.44,7.96,4.48
+10551,2024-03-18,East,Retail,Office Chair,Furniture,174.8,1,0.0,129.97,174.8,129.97,44.83
+11082,2024-03-19,South,Online,Backpack,Accessories,90.77,1,0.0,46.35,90.77,46.35,44.42
+11498,2024-03-19,East,Partner,Coffee Maker,Home,113.75,1,0.0,77.94,113.75,77.94,35.81
+10491,2024-03-19,South,Online,Blender,Home,34.38,1,0.2,21.59,27.5,21.59,5.91
+10245,2024-03-19,East,Online,Coffee Maker,Home,95.48,1,0.0,51.04,95.48,51.04,44.44
+10855,2024-03-19,West,Retail,Smartphone,Electronics,619.58,1,0.0,348.54,619.58,348.54,271.04
+10265,2024-03-19,North,Online,Backpack,Accessories,29.04,1,0.05,21.47,27.59,21.47,6.12
+10380,2024-03-19,North,Online,Blender,Home,119.91,1,0.0,91.84,119.91,91.84,28.07
+11308,2024-03-19,East,Online,Coffee Maker,Home,140.24,1,0.05,79.21,133.23,79.21,54.02
+10866,2024-03-19,East,Retail,Backpack,Accessories,51.24,1,0.05,33.54,48.68,33.54,15.14
+10072,2024-03-20,North,Online,Office Chair,Furniture,227.75,1,0.0,149.87,227.75,149.87,77.88
+10370,2024-03-20,East,Retail,Notebook,Stationery,4.59,1,0.0,2.59,4.59,2.59,2.0
+11253,2024-03-21,North,Retail,Smartphone,Electronics,649.07,1,0.0,476.22,649.07,476.22,172.85
+10227,2024-03-21,West,Partner,Laptop,Electronics,912.81,1,0.0,688.45,912.81,688.45,224.36
+10416,2024-03-23,North,Online,Headphones,Accessories,45.6,2,0.1,24.44,82.08,48.88,33.2
+10253,2024-03-23,North,Retail,Office Chair,Furniture,210.9,2,0.0,141.25,421.8,282.49,139.31
+10852,2024-03-24,North,Retail,Smartphone,Electronics,516.72,1,0.0,272.42,516.72,272.42,244.3
+10042,2024-03-24,North,Partner,Notebook,Stationery,3.96,2,0.0,2.8,7.92,5.61,2.31
+11588,2024-03-24,South,Online,Desk,Furniture,265.56,1,0.15,152.58,225.73,152.58,73.15
+10474,2024-03-24,West,Partner,Smartphone,Electronics,568.55,1,0.0,326.58,568.55,326.58,241.97
+10415,2024-03-24,North,Online,Laptop,Electronics,1066.06,3,0.0,709.04,3198.18,2127.13,1071.05
+10502,2024-03-24,West,Online,Notebook,Stationery,7.14,1,0.0,5.51,7.14,5.51,1.63
+10801,2024-03-24,North,Retail,Blender,Home,44.5,1,0.0,28.36,44.5,28.36,16.14
+10908,2024-03-25,South,Online,Smartphone,Electronics,484.12,1,0.2,372.14,387.3,372.14,15.16
+10824,2024-03-25,West,Online,Coffee Maker,Home,113.26,2,0.15,62.75,192.54,125.49,67.05
+11146,2024-03-25,South,Online,Headphones,Accessories,82.05,2,0.0,40.01,164.1,80.03,84.07
+10971,2024-03-25,East,Online,Headphones,Accessories,46.09,1,0.0,28.99,46.09,28.99,17.1
+11382,2024-03-26,East,Online,Laptop,Electronics,1149.33,2,0.0,867.21,2298.66,1734.43,564.23
+10947,2024-03-28,East,Online,Blender,Home,65.32,2,0.0,45.85,130.64,91.7,38.94
+11232,2024-03-28,West,Online,Coffee Maker,Home,82.93,4,0.0,49.42,331.72,197.7,134.02
+10281,2024-03-28,North,Retail,Laptop,Electronics,1115.86,1,0.0,567.16,1115.86,567.16,548.7
+10522,2024-03-29,South,Partner,Headphones,Accessories,119.45,1,0.0,72.03,119.45,72.03,47.42
+10325,2024-03-29,North,Retail,Notebook,Stationery,3.98,1,0.0,3.1,3.98,3.1,0.88
+10014,2024-03-29,East,Online,Notebook,Stationery,7.26,1,0.05,5.27,6.9,5.27,1.63
+10630,2024-03-29,North,Retail,Notebook,Stationery,5.9,2,0.0,4.11,11.8,8.22,3.58
+10929,2024-03-30,East,Retail,Coffee Maker,Home,117.16,1,0.0,75.4,117.16,75.4,41.76
+11400,2024-03-30,South,Online,Office Chair,Furniture,150.51,1,0.0,79.71,150.51,79.71,70.8
+10379,2024-03-30,North,Online,Headphones,Accessories,100.11,1,0.0,54.17,100.11,54.17,45.94
+11469,2024-03-30,North,Online,Blender,Home,88.25,1,0.0,42.97,88.25,42.97,45.28
+10182,2024-03-31,West,Online,Notebook,Stationery,3.43,2,0.0,2.17,6.86,4.34,2.52
+10272,2024-04-01,South,Online,Smartphone,Electronics,720.87,1,0.0,450.58,720.87,450.58,270.29
+11010,2024-04-02,North,Retail,Office Chair,Furniture,126.42,2,0.1,90.13,227.56,180.26,47.3
+10279,2024-04-04,East,Retail,Notebook,Stationery,7.71,1,0.15,5.08,6.55,5.08,1.47
+10005,2024-04-04,North,Online,Laptop,Electronics,1008.09,2,0.0,540.99,2016.18,1081.98,934.2
+10047,2024-04-05,East,Retail,Headphones,Accessories,63.26,1,0.0,41.01,63.26,41.01,22.25
+10574,2024-04-05,South,Online,Blender,Home,109.61,2,0.0,57.57,219.22,115.14,104.08
+10683,2024-04-05,North,Partner,Laptop,Electronics,1063.77,2,0.05,603.51,2021.16,1207.02,814.14
+10643,2024-04-06,North,Retail,Laptop,Electronics,1149.0,1,0.15,734.35,976.65,734.35,242.3
+11199,2024-04-06,South,Retail,Headphones,Accessories,69.48,2,0.1,51.17,125.06,102.35,22.71
+10249,2024-04-07,West,Partner,Headphones,Accessories,92.42,3,0.1,69.76,249.53,209.28,40.25
+11307,2024-04-07,East,Partner,Coffee Maker,Home,82.72,2,0.0,44.11,165.44,88.22,77.22
+11436,2024-04-08,East,Retail,Backpack,Accessories,25.65,1,0.0,16.66,25.65,16.66,8.99
+11560,2024-04-08,South,Partner,Notebook,Stationery,7.54,4,0.15,4.87,25.64,19.5,6.14
+10409,2024-04-08,East,Online,Smartphone,Electronics,596.69,2,0.15,406.17,1014.37,812.35,202.02
+11371,2024-04-09,South,Online,Laptop,Electronics,1177.9,3,0.0,723.97,3533.7,2171.9,1361.8
+10836,2024-04-09,West,Online,Desk,Furniture,274.5,1,0.0,140.95,274.5,140.95,133.55
+11567,2024-04-09,West,Online,Laptop,Electronics,989.87,2,0.0,745.09,1979.74,1490.18,489.56
+11529,2024-04-10,South,Retail,Smartphone,Electronics,770.29,2,0.0,439.59,1540.58,879.19,661.39
+10778,2024-04-11,North,Retail,Smartphone,Electronics,471.72,2,0.0,345.07,943.44,690.14,253.3
+10271,2024-04-12,North,Retail,Laptop,Electronics,959.7,2,0.05,660.91,1823.43,1321.82,501.61
+11125,2024-04-12,North,Online,Office Chair,Furniture,231.44,1,0.0,120.87,231.44,120.87,110.57
+10982,2024-04-12,West,Partner,Notebook,Stationery,3.59,1,0.0,1.75,3.59,1.75,1.84
+10395,2024-04-13,South,Online,Laptop,Electronics,987.95,1,0.0,521.09,987.95,521.09,466.86
+10207,2024-04-14,West,Online,Smartphone,Electronics,709.93,1,0.0,350.49,709.93,350.49,359.44
+10780,2024-04-14,East,Online,Notebook,Stationery,2.21,2,0.0,1.5,4.42,2.99,1.43
+11085,2024-04-15,East,Retail,Backpack,Accessories,73.94,1,0.0,54.12,73.94,54.12,19.82
+10898,2024-04-15,East,Online,Smartphone,Electronics,559.76,2,0.0,374.34,1119.52,748.69,370.83
+10849,2024-04-15,West,Retail,Smartphone,Electronics,673.18,1,0.0,335.0,673.18,335.0,338.18
+10231,2024-04-15,North,Online,Smartphone,Electronics,695.44,1,0.0,460.29,695.44,460.29,235.15
+11393,2024-04-15,East,Online,Smartphone,Electronics,775.73,1,0.05,483.26,736.94,483.26,253.68
+10149,2024-04-15,North,Partner,Office Chair,Furniture,108.84,1,0.15,65.37,92.51,65.37,27.14
+11096,2024-04-15,North,Retail,Office Chair,Furniture,254.0,2,0.0,163.04,508.0,326.08,181.92
+11281,2024-04-16,South,Online,Headphones,Accessories,134.72,4,0.0,71.84,538.88,287.35,251.53
+11018,2024-04-16,North,Online,Notebook,Stationery,5.32,2,0.0,3.37,10.64,6.73,3.91
+11597,2024-04-16,North,Online,Smartphone,Electronics,620.16,2,0.15,409.26,1054.27,818.52,235.75
+11246,2024-04-16,East,Online,Headphones,Accessories,57.71,1,0.05,39.42,54.82,39.42,15.4
+10449,2024-04-16,North,Retail,Laptop,Electronics,1247.71,1,0.0,623.33,1247.71,623.33,624.38
+11220,2024-04-17,West,Retail,Laptop,Electronics,1022.52,1,0.0,558.13,1022.52,558.13,464.39
+11094,2024-04-17,North,Online,Headphones,Accessories,60.32,1,0.0,38.96,60.32,38.96,21.36
+10189,2024-04-18,East,Online,Blender,Home,65.41,2,0.0,37.26,130.82,74.52,56.3
+11216,2024-04-18,South,Online,Desk,Furniture,290.23,2,0.05,160.62,551.44,321.24,230.2
+11250,2024-04-19,East,Partner,Backpack,Accessories,40.58,1,0.0,24.2,40.58,24.2,16.38
+10210,2024-04-19,East,Online,Desk,Furniture,284.35,3,0.05,173.31,810.4,519.94,290.46
+10165,2024-04-19,South,Online,Desk,Furniture,110.9,1,0.0,58.75,110.9,58.75,52.15
+10759,2024-04-19,South,Online,Laptop,Electronics,1217.37,2,0.1,847.64,2191.27,1695.28,495.99
+10064,2024-04-19,West,Online,Blender,Home,96.07,1,0.1,57.01,86.46,57.01,29.45
+10565,2024-04-20,West,Online,Coffee Maker,Home,86.47,1,0.0,46.43,86.47,46.43,40.04
+10393,2024-04-20,West,Partner,Coffee Maker,Home,172.49,2,0.0,113.5,344.98,227.0,117.98
+11193,2024-04-21,South,Online,Notebook,Stationery,6.73,2,0.0,3.71,13.46,7.42,6.04
+11493,2024-04-21,South,Online,Coffee Maker,Home,170.3,1,0.05,128.73,161.78,128.73,33.05
+10358,2024-04-21,South,Retail,Notebook,Stationery,7.14,1,0.0,4.96,7.14,4.96,2.18
+11441,2024-04-21,South,Retail,Headphones,Accessories,66.45,1,0.0,38.63,66.45,38.63,27.82
+10717,2024-04-22,West,Online,Desk,Furniture,136.82,2,0.0,68.18,273.64,136.37,137.27
+10545,2024-04-22,South,Retail,Smartphone,Electronics,714.89,1,0.0,394.16,714.89,394.16,320.73
+10242,2024-04-23,West,Online,Notebook,Stationery,4.77,2,0.15,2.65,8.11,5.29,2.82
+11545,2024-04-23,East,Partner,Office Chair,Furniture,182.79,1,0.0,90.57,182.79,90.57,92.22
+10411,2024-04-24,North,Retail,Coffee Maker,Home,175.52,2,0.0,115.11,351.04,230.23,120.81
+10123,2024-04-25,West,Online,Laptop,Electronics,1180.7,1,0.0,811.06,1180.7,811.06,369.64
+10561,2024-04-25,North,Online,Laptop,Electronics,913.5,1,0.0,505.27,913.5,505.27,408.23
+11238,2024-04-26,West,Retail,Office Chair,Furniture,244.47,1,0.05,155.78,232.25,155.78,76.47
+10632,2024-04-26,East,Online,Notebook,Stationery,2.52,1,0.0,1.91,2.52,1.91,0.61
+10654,2024-04-27,South,Retail,Headphones,Accessories,50.29,1,0.0,27.9,50.29,27.9,22.39
+11236,2024-04-28,West,Retail,Laptop,Electronics,1029.5,2,0.1,586.58,1853.1,1173.15,679.95
+10989,2024-04-28,South,Online,Headphones,Accessories,75.21,1,0.0,38.07,75.21,38.07,37.14
+11278,2024-04-28,South,Retail,Smartphone,Electronics,732.24,2,0.0,508.42,1464.48,1016.84,447.64
+11176,2024-04-28,South,Online,Blender,Home,59.01,3,0.2,30.44,141.62,91.33,50.29
+10266,2024-04-28,East,Online,Smartphone,Electronics,528.01,1,0.0,364.31,528.01,364.31,163.7
+11183,2024-04-29,North,Online,Laptop,Electronics,854.57,1,0.1,535.74,769.11,535.74,233.37
+10196,2024-04-29,West,Online,Smartphone,Electronics,514.71,2,0.1,254.61,926.48,509.22,417.26
+11570,2024-04-29,North,Retail,Desk,Furniture,334.25,1,0.0,200.9,334.25,200.9,133.35
+11174,2024-04-29,North,Online,Blender,Home,78.34,1,0.0,60.86,78.34,60.86,17.48
+10492,2024-04-29,North,Retail,Coffee Maker,Home,177.3,1,0.05,100.2,168.44,100.2,68.24
+10230,2024-04-29,East,Retail,Smartphone,Electronics,652.29,2,0.05,452.04,1239.35,904.07,335.28
+11055,2024-04-29,North,Retail,Headphones,Accessories,123.78,1,0.0,75.77,123.78,75.77,48.01
+10921,2024-04-29,South,Partner,Laptop,Electronics,1009.66,1,0.15,747.69,858.21,747.69,110.52
+11473,2024-04-29,North,Partner,Smartphone,Electronics,563.14,1,0.0,438.62,563.14,438.62,124.52
+11166,2024-04-30,North,Retail,Notebook,Stationery,5.15,1,0.1,3.18,4.64,3.18,1.46
+10018,2024-05-01,North,Online,Laptop,Electronics,990.82,2,0.0,768.87,1981.64,1537.73,443.91
+10056,2024-05-01,East,Online,Notebook,Stationery,5.86,1,0.1,4.24,5.27,4.24,1.03
+11598,2024-05-01,West,Online,Smartphone,Electronics,697.65,2,0.0,418.08,1395.3,836.16,559.14
+11509,2024-05-01,West,Online,Smartphone,Electronics,556.14,1,0.05,341.1,528.33,341.1,187.23
+11497,2024-05-02,West,Online,Notebook,Stationery,6.64,1,0.0,3.36,6.64,3.36,3.28
+11503,2024-05-03,South,Retail,Headphones,Accessories,127.38,1,0.0,75.6,127.38,75.6,51.78
+10693,2024-05-03,North,Online,Headphones,Accessories,114.77,2,0.0,76.07,229.54,152.15,77.39
+10931,2024-05-04,North,Online,Headphones,Accessories,62.18,1,0.05,36.5,59.07,36.5,22.57
+11494,2024-05-04,West,Online,Notebook,Stationery,6.83,2,0.0,4.34,13.66,8.68,4.98
+10098,2024-05-04,West,Retail,Laptop,Electronics,1185.25,1,0.0,629.36,1185.25,629.36,555.89
+11475,2024-05-04,North,Online,Desk,Furniture,235.3,1,0.1,118.86,211.77,118.86,92.91
+10650,2024-05-04,North,Online,Laptop,Electronics,1194.17,1,0.2,682.92,955.34,682.92,272.42
+11333,2024-05-05,North,Online,Desk,Furniture,320.05,2,0.0,200.17,640.1,400.33,239.77
+10579,2024-05-05,South,Online,Notebook,Stationery,3.66,1,0.0,2.13,3.66,2.13,1.53
+10692,2024-05-06,North,Online,Notebook,Stationery,3.1,3,0.2,2.39,7.44,7.16,0.28
+11572,2024-05-06,South,Online,Desk,Furniture,114.7,2,0.0,87.29,229.4,174.58,54.82
+11137,2024-05-06,South,Retail,Office Chair,Furniture,250.33,2,0.0,127.18,500.66,254.36,246.3
+10952,2024-05-06,South,Online,Headphones,Accessories,42.62,2,0.0,25.5,85.24,51.01,34.23
+11334,2024-05-06,East,Online,Backpack,Accessories,75.9,1,0.0,40.88,75.9,40.88,35.02
+11434,2024-05-07,South,Online,Smartphone,Electronics,701.55,2,0.05,498.67,1332.94,997.35,335.59
+10329,2024-05-07,South,Online,Coffee Maker,Home,158.02,1,0.05,82.51,150.12,82.51,67.61
+11172,2024-05-08,East,Online,Blender,Home,57.21,3,0.0,42.3,171.63,126.9,44.73
+11542,2024-05-08,South,Online,Headphones,Accessories,109.2,1,0.1,69.01,98.28,69.01,29.27
+11198,2024-05-08,East,Retail,Coffee Maker,Home,174.37,1,0.05,95.79,165.65,95.79,69.86
+10389,2024-05-08,East,Online,Smartphone,Electronics,505.54,3,0.0,331.55,1516.62,994.65,521.97
+10628,2024-05-09,South,Retail,Laptop,Electronics,906.87,3,0.1,694.25,2448.55,2082.76,365.79
+10432,2024-05-09,North,Retail,Notebook,Stationery,2.62,1,0.0,1.65,2.62,1.65,0.97
+10008,2024-05-10,South,Retail,Notebook,Stationery,4.81,1,0.0,2.98,4.81,2.98,1.83
+10672,2024-05-10,South,Online,Coffee Maker,Home,144.2,2,0.0,82.35,288.4,164.7,123.7
+10247,2024-05-10,North,Online,Coffee Maker,Home,90.56,1,0.0,50.73,90.56,50.73,39.83
+10198,2024-05-10,East,Online,Notebook,Stationery,5.83,1,0.0,4.01,5.83,4.01,1.82
+10299,2024-05-11,West,Online,Notebook,Stationery,4.64,1,0.0,3.2,4.64,3.2,1.44
+11353,2024-05-11,South,Online,Headphones,Accessories,125.25,2,0.0,78.45,250.5,156.9,93.6
+11358,2024-05-12,East,Retail,Office Chair,Furniture,187.95,2,0.1,134.92,338.31,269.83,68.48
+11543,2024-05-12,East,Retail,Headphones,Accessories,98.7,2,0.15,55.46,167.79,110.92,56.87
+10173,2024-05-12,South,Online,Headphones,Accessories,128.21,2,0.0,78.03,256.42,156.05,100.37
+10603,2024-05-12,South,Online,Backpack,Accessories,92.39,3,0.0,56.78,277.17,170.35,106.82
+11305,2024-05-14,East,Retail,Notebook,Stationery,5.63,2,0.0,3.45,11.26,6.89,4.37
+10808,2024-05-16,East,Online,Smartphone,Electronics,785.19,2,0.0,412.96,1570.38,825.92,744.46
+10388,2024-05-16,East,Retail,Backpack,Accessories,49.22,3,0.0,31.9,147.66,95.69,51.97
+10924,2024-05-16,West,Online,Desk,Furniture,273.62,1,0.0,189.86,273.62,189.86,83.76
+10703,2024-05-16,South,Online,Smartphone,Electronics,721.6,2,0.0,518.21,1443.2,1036.42,406.78
+11413,2024-05-16,East,Online,Notebook,Stationery,3.87,2,0.0,2.72,7.74,5.45,2.29
+10595,2024-05-16,North,Online,Laptop,Electronics,1109.54,2,0.0,780.99,2219.08,1561.98,657.1
+10937,2024-05-17,North,Online,Backpack,Accessories,73.36,2,0.0,39.52,146.72,79.04,67.68
+11299,2024-05-17,East,Online,Blender,Home,51.57,1,0.0,37.82,51.57,37.82,13.75
+11093,2024-05-17,West,Online,Headphones,Accessories,95.28,2,0.0,73.56,190.56,147.13,43.43
+10682,2024-05-17,East,Online,Smartphone,Electronics,477.94,1,0.05,357.31,454.04,357.31,96.73
+10229,2024-05-18,North,Partner,Coffee Maker,Home,122.47,1,0.0,82.7,122.47,82.7,39.77
+11209,2024-05-19,North,Retail,Headphones,Accessories,118.72,4,0.0,62.33,474.88,249.3,225.58
+11159,2024-05-19,West,Retail,Office Chair,Furniture,216.41,2,0.0,146.05,432.82,292.11,140.71
+10160,2024-05-19,South,Online,Blender,Home,55.67,2,0.0,31.1,111.34,62.21,49.13
+11031,2024-05-19,South,Partner,Desk,Furniture,285.56,1,0.0,156.17,285.56,156.17,129.39
+10190,2024-05-20,East,Retail,Headphones,Accessories,63.56,1,0.0,40.61,63.56,40.61,22.95
+11042,2024-05-20,East,Retail,Coffee Maker,Home,113.47,1,0.0,78.4,113.47,78.4,35.07
+11056,2024-05-21,East,Online,Blender,Home,56.64,1,0.0,30.09,56.64,30.09,26.55
+10591,2024-05-21,South,Retail,Backpack,Accessories,68.5,1,0.0,51.98,68.5,51.98,16.52
+10739,2024-05-21,North,Online,Office Chair,Furniture,247.05,1,0.0,152.38,247.05,152.38,94.67
+11459,2024-05-21,East,Retail,Backpack,Accessories,50.16,2,0.0,31.48,100.32,62.97,37.35
+10873,2024-05-22,North,Retail,Backpack,Accessories,43.02,4,0.0,22.74,172.08,90.98,81.1
+10101,2024-05-22,South,Retail,Backpack,Accessories,33.31,3,0.15,17.85,84.94,53.54,31.4
+10519,2024-05-23,East,Partner,Laptop,Electronics,916.94,1,0.1,507.78,825.25,507.78,317.47
+10163,2024-05-23,East,Retail,Headphones,Accessories,113.86,2,0.0,75.83,227.72,151.66,76.06
+10340,2024-05-23,West,Online,Backpack,Accessories,66.23,1,0.1,36.09,59.61,36.09,23.52
+11552,2024-05-23,East,Retail,Office Chair,Furniture,205.18,1,0.1,155.68,184.66,155.68,28.98
+10146,2024-05-24,South,Online,Headphones,Accessories,81.86,2,0.05,52.06,155.53,104.11,51.42
+10893,2024-05-25,South,Retail,Headphones,Accessories,47.52,2,0.05,29.61,90.29,59.23,31.06
+11219,2024-05-26,East,Online,Blender,Home,69.86,1,0.0,44.03,69.86,44.03,25.83
+10789,2024-05-26,East,Online,Notebook,Stationery,4.42,1,0.0,3.39,4.42,3.39,1.03
+10760,2024-05-26,North,Partner,Office Chair,Furniture,161.83,1,0.0,79.77,161.83,79.77,82.06
+11013,2024-05-27,South,Partner,Office Chair,Furniture,249.01,1,0.0,159.01,249.01,159.01,90.0
+11372,2024-05-28,West,Online,Backpack,Accessories,88.67,1,0.0,56.27,88.67,56.27,32.4
+10631,2024-05-28,North,Retail,Backpack,Accessories,40.34,2,0.1,21.65,72.61,43.3,29.31
+10256,2024-05-29,East,Retail,Blender,Home,68.41,3,0.0,33.72,205.23,101.16,104.07
+10541,2024-05-29,South,Online,Backpack,Accessories,86.53,1,0.0,52.67,86.53,52.67,33.86
+10607,2024-05-29,North,Online,Notebook,Stationery,3.1,1,0.0,2.01,3.1,2.01,1.09
+11129,2024-05-29,North,Online,Coffee Maker,Home,90.13,1,0.0,58.1,90.13,58.1,32.03
+10707,2024-05-29,South,Online,Notebook,Stationery,7.24,1,0.0,3.91,7.24,3.91,3.33
+10304,2024-05-29,East,Online,Desk,Furniture,123.18,2,0.1,71.77,221.72,143.55,78.17
+10294,2024-05-30,East,Retail,Laptop,Electronics,1121.18,2,0.0,654.62,2242.36,1309.23,933.13
+11450,2024-05-30,East,Partner,Smartphone,Electronics,474.49,2,0.05,288.11,901.53,576.22,325.31
+10756,2024-05-30,South,Online,Smartphone,Electronics,565.0,2,0.05,315.86,1073.5,631.71,441.79
+10442,2024-05-30,South,Online,Smartphone,Electronics,791.8,1,0.0,570.14,791.8,570.14,221.66
+10882,2024-05-31,East,Online,Coffee Maker,Home,102.46,1,0.0,68.49,102.46,68.49,33.97
+11324,2024-05-31,South,Online,Notebook,Stationery,6.24,1,0.2,4.78,4.99,4.78,0.21
+10092,2024-05-31,East,Online,Blender,Home,38.49,4,0.1,19.55,138.56,78.21,60.35
+10378,2024-06-01,East,Online,Office Chair,Furniture,204.9,1,0.15,118.28,174.16,118.28,55.88
+10761,2024-06-01,West,Retail,Blender,Home,92.04,1,0.0,59.93,92.04,59.93,32.11
+11262,2024-06-01,North,Retail,Office Chair,Furniture,194.07,1,0.0,110.8,194.07,110.8,83.27
+10326,2024-06-02,South,Retail,Coffee Maker,Home,161.6,1,0.0,102.74,161.6,102.74,58.86
+10252,2024-06-02,South,Online,Notebook,Stationery,3.99,2,0.0,3.04,7.98,6.08,1.9
+10364,2024-06-02,West,Online,Laptop,Electronics,1153.21,3,0.0,842.81,3459.63,2528.42,931.21
+10744,2024-06-03,North,Online,Laptop,Electronics,1173.27,2,0.0,705.07,2346.54,1410.14,936.4
+11411,2024-06-03,East,Partner,Notebook,Stationery,7.3,1,0.1,3.66,6.57,3.66,2.91
+10641,2024-06-03,West,Online,Blender,Home,41.62,2,0.1,29.2,74.92,58.4,16.52
+10878,2024-06-04,East,Online,Headphones,Accessories,43.95,1,0.0,25.77,43.95,25.77,18.18
+11059,2024-06-04,West,Online,Desk,Furniture,176.0,3,0.05,116.9,501.6,350.69,150.91
+10544,2024-06-04,South,Retail,Backpack,Accessories,26.63,1,0.0,19.86,26.63,19.86,6.77
+10860,2024-06-04,South,Online,Desk,Furniture,210.82,1,0.1,157.18,189.74,157.18,32.56
+10381,2024-06-04,West,Online,Desk,Furniture,275.02,3,0.05,170.26,783.81,510.78,273.03
+10475,2024-06-04,East,Online,Headphones,Accessories,46.51,1,0.0,29.15,46.51,29.15,17.36
+10179,2024-06-05,South,Online,Notebook,Stationery,5.45,1,0.0,3.35,5.45,3.35,2.1
+11586,2024-06-05,East,Online,Backpack,Accessories,51.99,1,0.0,31.58,51.99,31.58,20.41
+10402,2024-06-05,South,Online,Backpack,Accessories,59.67,1,0.0,39.6,59.67,39.6,20.07
+11487,2024-06-06,West,Retail,Backpack,Accessories,29.31,2,0.0,22.44,58.62,44.88,13.74
+10680,2024-06-06,West,Online,Headphones,Accessories,89.17,3,0.0,58.27,267.51,174.8,92.71
+11336,2024-06-06,North,Online,Notebook,Stationery,7.66,2,0.0,4.22,15.32,8.43,6.89
+11555,2024-06-07,West,Online,Headphones,Accessories,66.04,1,0.0,49.91,66.04,49.91,16.13
+11357,2024-06-07,East,Online,Desk,Furniture,115.58,1,0.0,78.35,115.58,78.35,37.23
+10857,2024-06-07,East,Online,Blender,Home,31.33,1,0.1,18.16,28.2,18.16,10.04
+10470,2024-06-07,North,Online,Desk,Furniture,169.11,2,0.0,81.88,338.22,163.76,174.46
+10251,2024-06-07,East,Retail,Coffee Maker,Home,173.68,1,0.15,123.01,147.63,123.01,24.62
+10016,2024-06-07,East,Online,Smartphone,Electronics,764.76,3,0.0,536.06,2294.28,1608.19,686.09
+11420,2024-06-07,South,Online,Backpack,Accessories,25.74,1,0.15,16.55,21.88,16.55,5.33
+11260,2024-06-07,North,Online,Backpack,Accessories,57.9,3,0.0,29.66,173.7,88.98,84.72
+10822,2024-06-08,South,Partner,Coffee Maker,Home,85.86,1,0.0,43.37,85.86,43.37,42.49
+10121,2024-06-09,South,Partner,Coffee Maker,Home,49.4,1,0.0,24.9,49.4,24.9,24.5
+10020,2024-06-09,East,Retail,Coffee Maker,Home,85.68,2,0.0,56.71,171.36,113.42,57.94
+10896,2024-06-09,East,Online,Notebook,Stationery,6.64,1,0.0,5.08,6.64,5.08,1.56
+11035,2024-06-09,West,Online,Office Chair,Furniture,127.88,2,0.1,74.4,230.18,148.81,81.37
+10414,2024-06-09,East,Online,Notebook,Stationery,2.94,1,0.0,1.65,2.94,1.65,1.29
+10776,2024-06-10,West,Partner,Notebook,Stationery,7.0,1,0.0,4.11,7.0,4.11,2.89
+10100,2024-06-10,South,Retail,Backpack,Accessories,66.85,2,0.0,42.36,133.7,84.72,48.98
+11075,2024-06-11,East,Retail,Notebook,Stationery,7.59,1,0.05,5.87,7.21,5.87,1.34
+10084,2024-06-11,West,Partner,Smartphone,Electronics,499.58,1,0.05,259.39,474.6,259.39,215.21
+11197,2024-06-11,East,Online,Smartphone,Electronics,629.34,2,0.1,346.89,1132.81,693.79,439.02
+11583,2024-06-11,North,Retail,Office Chair,Furniture,205.28,1,0.0,148.79,205.28,148.79,56.49
+11070,2024-06-11,South,Retail,Office Chair,Furniture,90.38,1,0.05,62.63,85.86,62.63,23.23
+11472,2024-06-11,North,Retail,Smartphone,Electronics,494.58,2,0.0,328.03,989.16,656.06,333.1
+10262,2024-06-11,West,Retail,Notebook,Stationery,2.58,1,0.0,1.71,2.58,1.71,0.87
+10464,2024-06-12,North,Online,Headphones,Accessories,129.11,1,0.0,74.37,129.11,74.37,54.74
+11136,2024-06-12,North,Retail,Headphones,Accessories,107.0,1,0.0,60.81,107.0,60.81,46.19
+11122,2024-06-12,North,Retail,Smartphone,Electronics,729.75,1,0.1,454.41,656.77,454.41,202.36
+11123,2024-06-12,West,Online,Notebook,Stationery,2.48,1,0.0,1.7,2.48,1.7,0.78
+10218,2024-06-12,West,Online,Smartphone,Electronics,509.69,4,0.0,343.85,2038.76,1375.41,663.35
+10240,2024-06-13,North,Retail,Smartphone,Electronics,844.15,2,0.0,406.45,1688.3,812.91,875.39
+10259,2024-06-13,South,Online,Laptop,Electronics,1193.37,1,0.0,787.1,1193.37,787.1,406.27
+10401,2024-06-13,East,Online,Headphones,Accessories,110.19,1,0.1,60.86,99.17,60.86,38.31
+10429,2024-06-13,West,Online,Laptop,Electronics,1064.59,1,0.2,736.75,851.67,736.75,114.92
+11594,2024-06-14,South,Partner,Office Chair,Furniture,121.42,1,0.0,84.49,121.42,84.49,36.93
+11565,2024-06-15,South,Retail,Notebook,Stationery,6.27,1,0.0,4.89,6.27,4.89,1.38
+11224,2024-06-15,North,Retail,Coffee Maker,Home,104.03,3,0.0,53.59,312.09,160.77,151.32
+11164,2024-06-17,East,Online,Smartphone,Electronics,698.69,1,0.0,411.16,698.69,411.16,287.53
+10633,2024-06-18,South,Online,Laptop,Electronics,1241.35,1,0.0,749.15,1241.35,749.15,492.2
+10721,2024-06-19,East,Online,Desk,Furniture,217.12,1,0.05,123.91,206.26,123.91,82.35
+10209,2024-06-19,West,Online,Smartphone,Electronics,757.0,1,0.0,461.31,757.0,461.31,295.69
+11423,2024-06-20,East,Retail,Office Chair,Furniture,172.21,2,0.0,93.53,344.42,187.06,157.36
+11043,2024-06-21,North,Online,Coffee Maker,Home,123.47,1,0.0,88.6,123.47,88.6,34.87
+10943,2024-06-21,South,Partner,Smartphone,Electronics,791.36,1,0.0,391.45,791.36,391.45,399.91
+11320,2024-06-21,South,Online,Notebook,Stationery,3.06,3,0.1,1.8,8.26,5.4,2.86
+10214,2024-06-21,East,Online,Notebook,Stationery,5.17,1,0.0,2.63,5.17,2.63,2.54
+10177,2024-06-21,West,Online,Office Chair,Furniture,157.05,1,0.0,86.02,157.05,86.02,71.03
+11143,2024-06-21,West,Retail,Notebook,Stationery,2.92,4,0.0,1.47,11.68,5.88,5.8
+10307,2024-06-21,South,Online,Headphones,Accessories,69.52,1,0.0,45.8,69.52,45.8,23.72
+10157,2024-06-21,East,Online,Headphones,Accessories,117.05,1,0.0,74.08,117.05,74.08,42.97
+10783,2024-06-21,West,Retail,Office Chair,Furniture,244.33,4,0.0,175.63,977.32,702.5,274.82
+10067,2024-06-22,West,Online,Desk,Furniture,175.58,1,0.1,111.67,158.02,111.67,46.35
+10992,2024-06-22,West,Retail,Blender,Home,77.88,1,0.0,37.55,77.88,37.55,40.33
+10879,2024-06-23,South,Online,Coffee Maker,Home,132.56,1,0.05,86.19,125.93,86.19,39.74
+11409,2024-06-23,East,Online,Notebook,Stationery,7.77,2,0.0,3.78,15.54,7.57,7.97
+11177,2024-06-23,South,Online,Office Chair,Furniture,121.75,1,0.0,73.99,121.75,73.99,47.76
+11505,2024-06-24,West,Retail,Notebook,Stationery,4.98,2,0.0,2.49,9.96,4.97,4.99
+11276,2024-06-24,West,Online,Headphones,Accessories,60.38,1,0.05,43.07,57.36,43.07,14.29
+10555,2024-06-24,East,Online,Laptop,Electronics,1039.75,1,0.0,650.35,1039.75,650.35,389.4
+11119,2024-06-25,North,Online,Headphones,Accessories,73.93,4,0.15,42.5,251.36,169.99,81.37
+10527,2024-06-25,East,Online,Backpack,Accessories,54.06,4,0.0,41.07,216.24,164.26,51.98
+10571,2024-06-25,East,Retail,Headphones,Accessories,131.54,2,0.1,87.98,236.77,175.96,60.81
+11483,2024-06-25,South,Retail,Coffee Maker,Home,173.26,1,0.15,128.32,147.27,128.32,18.95
+10696,2024-06-25,North,Online,Desk,Furniture,294.3,2,0.0,187.79,588.6,375.59,213.01
+10816,2024-06-26,West,Online,Notebook,Stationery,3.57,2,0.1,1.89,6.43,3.77,2.66
+10844,2024-06-27,North,Retail,Office Chair,Furniture,223.97,1,0.0,166.87,223.97,166.87,57.1
+10287,2024-06-27,North,Online,Laptop,Electronics,1144.98,1,0.0,656.49,1144.98,656.49,488.49
+11367,2024-06-27,North,Retail,Smartphone,Electronics,457.06,1,0.0,274.74,457.06,274.74,182.32
+10840,2024-06-27,West,Online,Desk,Furniture,292.27,1,0.0,201.88,292.27,201.88,90.39
+10598,2024-06-29,North,Online,Coffee Maker,Home,45.43,2,0.0,33.61,90.86,67.22,23.64
+11200,2024-06-29,North,Online,Blender,Home,80.35,1,0.0,53.04,80.35,53.04,27.31
+11152,2024-06-29,South,Online,Notebook,Stationery,5.42,1,0.15,4.0,4.61,4.0,0.61
+11578,2024-06-29,West,Online,Notebook,Stationery,3.38,1,0.0,1.97,3.38,1.97,1.41
+10659,2024-06-29,South,Online,Coffee Maker,Home,135.57,1,0.0,67.69,135.57,67.69,67.88
+10876,2024-06-29,North,Online,Notebook,Stationery,7.97,1,0.05,4.8,7.57,4.8,2.77
+10476,2024-06-29,East,Online,Headphones,Accessories,123.44,4,0.05,83.71,469.07,334.84,134.23
+11448,2024-06-30,West,Retail,Desk,Furniture,210.78,3,0.0,112.88,632.34,338.64,293.7
+10623,2024-06-30,East,Retail,Backpack,Accessories,42.27,1,0.0,30.13,42.27,30.13,12.14
+10235,2024-06-30,North,Retail,Backpack,Accessories,30.91,2,0.0,15.86,61.82,31.73,30.09
+10877,2024-06-30,North,Partner,Office Chair,Furniture,129.67,1,0.0,66.61,129.67,66.61,63.06
+10144,2024-06-30,North,Retail,Coffee Maker,Home,81.88,1,0.1,55.98,73.69,55.98,17.71
+11124,2024-07-01,East,Online,Smartphone,Electronics,610.11,2,0.0,396.55,1220.22,793.09,427.13
+10087,2024-07-02,South,Online,Blender,Home,53.81,1,0.0,29.71,53.81,29.71,24.1
+10071,2024-07-02,South,Online,Smartphone,Electronics,710.53,1,0.0,393.98,710.53,393.98,316.55
+11040,2024-07-03,East,Online,Smartphone,Electronics,691.45,1,0.0,480.99,691.45,480.99,210.46
+10141,2024-07-03,South,Retail,Office Chair,Furniture,259.6,1,0.0,166.62,259.6,166.62,92.98
+10567,2024-07-04,North,Retail,Blender,Home,45.16,1,0.0,30.01,45.16,30.01,15.15
+11104,2024-07-04,South,Partner,Notebook,Stationery,4.49,2,0.0,3.21,8.98,6.42,2.56
+10699,2024-07-04,North,Online,Coffee Maker,Home,154.59,1,0.1,106.24,139.13,106.24,32.89
+10228,2024-07-04,South,Online,Desk,Furniture,133.18,1,0.0,85.62,133.18,85.62,47.56
+10951,2024-07-05,East,Online,Desk,Furniture,214.95,2,0.1,133.94,386.91,267.89,119.02
+10928,2024-07-05,East,Online,Notebook,Stationery,5.42,2,0.15,3.28,9.21,6.56,2.65
+10651,2024-07-05,West,Online,Office Chair,Furniture,119.1,1,0.0,79.54,119.1,79.54,39.56
+11564,2024-07-05,North,Online,Backpack,Accessories,62.2,1,0.0,34.93,62.2,34.93,27.27
+11304,2024-07-05,East,Online,Headphones,Accessories,90.41,4,0.0,44.33,361.64,177.31,184.33
+10888,2024-07-05,South,Partner,Smartphone,Electronics,618.05,1,0.0,328.01,618.05,328.01,290.04
+11003,2024-07-05,South,Retail,Smartphone,Electronics,717.17,1,0.0,518.28,717.17,518.28,198.89
+10851,2024-07-06,South,Online,Smartphone,Electronics,543.64,2,0.2,280.91,869.82,561.82,308.0
+11273,2024-07-06,South,Retail,Office Chair,Furniture,191.52,3,0.0,109.46,574.56,328.38,246.18
+10514,2024-07-06,West,Retail,Headphones,Accessories,43.14,2,0.15,21.31,73.34,42.62,30.72
+10831,2024-07-06,South,Online,Coffee Maker,Home,155.8,1,0.05,83.11,148.01,83.11,64.9
+10705,2024-07-07,East,Retail,Headphones,Accessories,73.45,1,0.05,40.72,69.78,40.72,29.06
+10660,2024-07-07,East,Online,Office Chair,Furniture,202.56,2,0.0,117.46,405.12,234.91,170.21
+10769,2024-07-07,South,Retail,Smartphone,Electronics,462.56,2,0.0,326.1,925.12,652.2,272.92
+10694,2024-07-07,East,Partner,Headphones,Accessories,60.17,1,0.0,45.32,60.17,45.32,14.85
+10142,2024-07-07,East,Retail,Desk,Furniture,121.29,1,0.0,79.51,121.29,79.51,41.78
+10621,2024-07-08,North,Online,Notebook,Stationery,2.52,2,0.1,1.24,4.54,2.48,2.06
+10093,2024-07-09,North,Online,Office Chair,Furniture,220.93,2,0.0,162.84,441.86,325.68,116.18
+10948,2024-07-09,West,Online,Notebook,Stationery,2.95,1,0.15,2.22,2.51,2.22,0.29
+10793,2024-07-09,South,Partner,Headphones,Accessories,115.14,1,0.0,72.53,115.14,72.53,42.61
+10086,2024-07-09,North,Partner,Laptop,Electronics,1057.67,1,0.0,702.22,1057.67,702.22,355.45
+11162,2024-07-10,East,Partner,Coffee Maker,Home,166.24,1,0.05,119.4,157.93,119.4,38.53
+10932,2024-07-10,East,Online,Headphones,Accessories,62.36,1,0.0,42.26,62.36,42.26,20.1
+10185,2024-07-11,North,Retail,Notebook,Stationery,6.26,1,0.15,3.44,5.32,3.44,1.88
+10925,2024-07-11,East,Retail,Smartphone,Electronics,790.8,2,0.0,560.79,1581.6,1121.58,460.02
+10110,2024-07-11,North,Online,Backpack,Accessories,92.63,1,0.15,66.52,78.74,66.52,12.22
+10471,2024-07-12,East,Online,Office Chair,Furniture,141.84,1,0.0,77.8,141.84,77.8,64.04
+11355,2024-07-12,East,Partner,Notebook,Stationery,5.63,2,0.0,3.13,11.26,6.25,5.01
+11381,2024-07-12,North,Retail,Office Chair,Furniture,130.37,1,0.0,76.1,130.37,76.1,54.27
+10775,2024-07-12,East,Online,Laptop,Electronics,916.82,1,0.15,705.09,779.3,705.09,74.21
+11451,2024-07-13,West,Retail,Notebook,Stationery,3.47,1,0.0,2.24,3.47,2.24,1.23
+10164,2024-07-13,North,Online,Laptop,Electronics,898.92,3,0.0,656.98,2696.76,1970.95,725.81
+10980,2024-07-13,South,Partner,Smartphone,Electronics,604.92,1,0.0,340.19,604.92,340.19,264.73
+11485,2024-07-13,North,Retail,Coffee Maker,Home,149.64,2,0.0,75.63,299.28,151.26,148.02
+10605,2024-07-14,North,Online,Backpack,Accessories,58.64,1,0.0,28.23,58.64,28.23,30.41
+10537,2024-07-14,East,Online,Desk,Furniture,164.37,1,0.0,106.14,164.37,106.14,58.23
+10055,2024-07-15,North,Online,Blender,Home,50.2,1,0.0,34.81,50.2,34.81,15.39
+11379,2024-07-15,East,Online,Coffee Maker,Home,67.43,3,0.0,48.97,202.29,146.91,55.38
+11006,2024-07-16,North,Online,Office Chair,Furniture,176.51,2,0.1,115.28,317.72,230.55,87.17
+10153,2024-07-16,North,Online,Smartphone,Electronics,497.78,1,0.0,363.87,497.78,363.87,133.91
+11039,2024-07-16,North,Retail,Office Chair,Furniture,226.74,1,0.2,155.5,181.39,155.5,25.89
+10691,2024-07-17,East,Online,Headphones,Accessories,110.56,2,0.1,82.82,199.01,165.64,33.37
+10979,2024-07-17,South,Online,Desk,Furniture,289.7,1,0.0,209.8,289.7,209.8,79.9
+11032,2024-07-17,East,Online,Blender,Home,92.38,2,0.0,50.97,184.76,101.93,82.83
+10296,2024-07-17,East,Online,Backpack,Accessories,87.49,1,0.1,46.28,78.74,46.28,32.46
+11590,2024-07-17,South,Online,Smartphone,Electronics,762.41,3,0.1,573.25,2058.51,1719.74,338.77
+11453,2024-07-17,South,Online,Notebook,Stationery,5.43,4,0.05,3.99,20.63,15.96,4.67
+10501,2024-07-18,East,Online,Blender,Home,86.08,3,0.2,58.15,206.59,174.44,32.15
+10945,2024-07-18,West,Online,Office Chair,Furniture,185.61,1,0.0,124.11,185.61,124.11,61.5
+10858,2024-07-19,East,Online,Notebook,Stationery,2.36,1,0.0,1.2,2.36,1.2,1.16
+10040,2024-07-19,West,Retail,Coffee Maker,Home,74.28,1,0.0,45.28,74.28,45.28,29.0
+10316,2024-07-20,North,Retail,Headphones,Accessories,96.77,1,0.1,64.16,87.09,64.16,22.93
+10676,2024-07-20,South,Online,Office Chair,Furniture,240.17,1,0.0,141.25,240.17,141.25,98.92
+10573,2024-07-20,West,Online,Office Chair,Furniture,97.89,1,0.0,52.81,97.89,52.81,45.08
+10283,2024-07-21,West,Online,Headphones,Accessories,95.8,1,0.0,73.76,95.8,73.76,22.04
+11364,2024-07-21,East,Online,Laptop,Electronics,1127.33,2,0.0,715.89,2254.66,1431.78,822.88
+10601,2024-07-21,North,Online,Office Chair,Furniture,133.74,1,0.0,82.62,133.74,82.62,51.12
+11087,2024-07-21,South,Retail,Blender,Home,82.41,1,0.0,57.49,82.41,57.49,24.92
+10397,2024-07-22,North,Online,Notebook,Stationery,2.33,1,0.0,1.57,2.33,1.57,0.76
+10239,2024-07-22,South,Online,Laptop,Electronics,1090.97,1,0.1,544.76,981.87,544.76,437.11
+10553,2024-07-23,East,Retail,Smartphone,Electronics,604.96,3,0.0,438.28,1814.88,1314.83,500.05
+11431,2024-07-24,North,Online,Backpack,Accessories,86.11,1,0.0,42.6,86.11,42.6,43.51
+11421,2024-07-25,North,Online,Blender,Home,36.65,1,0.0,18.99,36.65,18.99,17.66
+10770,2024-07-25,North,Online,Coffee Maker,Home,78.44,1,0.0,54.02,78.44,54.02,24.42
+10162,2024-07-25,North,Retail,Backpack,Accessories,27.89,1,0.05,21.72,26.5,21.72,4.78
+10981,2024-07-25,South,Retail,Backpack,Accessories,60.2,3,0.0,42.78,180.6,128.34,52.26
+11345,2024-07-25,West,Retail,Backpack,Accessories,30.32,2,0.2,23.61,48.51,47.22,1.29
+10455,2024-07-25,West,Partner,Laptop,Electronics,930.62,1,0.0,653.7,930.62,653.7,276.92
+11271,2024-07-26,North,Retail,Backpack,Accessories,93.44,1,0.0,64.12,93.44,64.12,29.32
+10045,2024-07-26,East,Retail,Notebook,Stationery,5.83,2,0.15,3.15,9.91,6.31,3.6
+10735,2024-07-26,West,Retail,Laptop,Electronics,874.38,1,0.05,643.76,830.66,643.76,186.9
+10353,2024-07-27,East,Retail,Desk,Furniture,338.22,2,0.1,246.8,608.8,493.6,115.2
+10147,2024-07-27,East,Online,Headphones,Accessories,50.02,1,0.0,38.18,50.02,38.18,11.84
+10911,2024-07-28,South,Retail,Blender,Home,45.35,1,0.0,22.61,45.35,22.61,22.74
+11311,2024-07-28,West,Online,Office Chair,Furniture,239.13,1,0.0,126.06,239.13,126.06,113.07
+10795,2024-07-28,East,Retail,Laptop,Electronics,1197.68,1,0.0,648.78,1197.68,648.78,548.9
+10697,2024-07-28,West,Partner,Blender,Home,93.7,1,0.05,47.44,89.02,47.44,41.58
+10099,2024-07-28,East,Online,Smartphone,Electronics,555.38,3,0.0,360.53,1666.14,1081.59,584.55
+10485,2024-07-29,West,Online,Laptop,Electronics,902.26,1,0.0,483.9,902.26,483.9,418.36
+11265,2024-07-29,West,Retail,Coffee Maker,Home,146.74,4,0.05,97.21,557.61,388.82,168.79
+11062,2024-07-29,East,Online,Coffee Maker,Home,113.89,2,0.0,56.13,227.78,112.26,115.52
+11359,2024-07-29,South,Online,Blender,Home,105.42,1,0.15,78.8,89.61,78.8,10.81
+11249,2024-07-29,North,Online,Notebook,Stationery,5.16,1,0.05,3.32,4.9,3.32,1.58
+11225,2024-07-30,South,Online,Smartphone,Electronics,764.37,2,0.0,532.76,1528.74,1065.51,463.23
+11375,2024-07-30,South,Online,Backpack,Accessories,39.7,1,0.1,23.7,35.73,23.7,12.03
+11186,2024-07-30,North,Online,Notebook,Stationery,6.31,1,0.1,4.38,5.68,4.38,1.3
+10768,2024-07-30,South,Online,Laptop,Electronics,1073.52,1,0.0,733.44,1073.52,733.44,340.08
+10764,2024-07-31,West,Retail,Smartphone,Electronics,598.6,1,0.0,382.11,598.6,382.11,216.49
+11365,2024-07-31,North,Partner,Office Chair,Furniture,177.88,2,0.0,105.42,355.76,210.85,144.91
+10241,2024-07-31,East,Partner,Notebook,Stationery,4.28,3,0.05,2.63,12.2,7.89,4.31
+10609,2024-07-31,South,Retail,Blender,Home,39.26,2,0.0,19.58,78.52,39.15,39.37
+10238,2024-08-01,South,Retail,Notebook,Stationery,4.85,1,0.0,2.53,4.85,2.53,2.32
+11261,2024-08-01,South,Online,Laptop,Electronics,980.15,2,0.05,640.52,1862.28,1281.04,581.24
+10178,2024-08-01,West,Online,Backpack,Accessories,52.59,1,0.0,37.96,52.59,37.96,14.63
+11322,2024-08-02,East,Retail,Office Chair,Furniture,176.52,1,0.1,98.62,158.87,98.62,60.25
+11016,2024-08-02,North,Retail,Smartphone,Electronics,462.69,1,0.0,253.29,462.69,253.29,209.4
+10119,2024-08-02,South,Online,Office Chair,Furniture,191.69,2,0.2,96.54,306.7,193.08,113.62
+10011,2024-08-02,West,Retail,Headphones,Accessories,52.0,2,0.1,28.25,93.6,56.5,37.1
+10854,2024-08-02,South,Online,Backpack,Accessories,68.77,1,0.0,40.83,68.77,40.83,27.94
+11433,2024-08-03,North,Retail,Laptop,Electronics,971.93,1,0.0,735.06,971.93,735.06,236.87
+11201,2024-08-03,West,Online,Desk,Furniture,150.86,1,0.0,82.03,150.86,82.03,68.83
+10914,2024-08-03,West,Online,Backpack,Accessories,33.09,3,0.1,24.21,89.34,72.63,16.71
+11255,2024-08-03,South,Retail,Smartphone,Electronics,793.96,3,0.0,526.45,2381.88,1579.34,802.54
+11530,2024-08-04,East,Online,Headphones,Accessories,50.7,1,0.1,31.58,45.63,31.58,14.05
+10525,2024-08-04,West,Online,Smartphone,Electronics,478.63,1,0.0,318.36,478.63,318.36,160.27
+11573,2024-08-04,East,Online,Desk,Furniture,338.86,1,0.1,255.27,304.97,255.27,49.7
+10531,2024-08-05,West,Retail,Blender,Home,57.78,4,0.15,37.88,196.45,151.52,44.93
+11523,2024-08-05,South,Online,Notebook,Stationery,6.26,4,0.0,3.88,25.04,15.5,9.54
+10215,2024-08-05,North,Online,Blender,Home,79.36,1,0.0,60.5,79.36,60.5,18.86
+10758,2024-08-05,West,Online,Backpack,Accessories,31.71,2,0.0,21.41,63.42,42.81,20.61
+10237,2024-08-05,South,Retail,Office Chair,Furniture,251.19,1,0.0,138.26,251.19,138.26,112.93
+10295,2024-08-05,North,Online,Notebook,Stationery,3.89,1,0.05,2.62,3.7,2.62,1.08
+11275,2024-08-05,East,Retail,Smartphone,Electronics,599.6,1,0.0,353.37,599.6,353.37,246.23
+11329,2024-08-05,South,Retail,Headphones,Accessories,42.95,2,0.0,29.05,85.9,58.1,27.8
+10331,2024-08-06,West,Retail,Blender,Home,98.92,2,0.0,68.92,197.84,137.84,60.0
+10557,2024-08-06,West,Online,Headphones,Accessories,73.2,2,0.0,39.26,146.4,78.52,67.88
+10481,2024-08-06,West,Online,Office Chair,Furniture,168.06,2,0.1,92.84,302.51,185.69,116.82
+11391,2024-08-06,South,Online,Backpack,Accessories,88.22,1,0.1,57.51,79.4,57.51,21.89
+11151,2024-08-07,East,Online,Smartphone,Electronics,457.31,2,0.0,301.65,914.62,603.3,311.32
+11576,2024-08-08,South,Retail,Smartphone,Electronics,503.37,1,0.1,304.86,453.03,304.86,148.17
+11277,2024-08-08,West,Online,Smartphone,Electronics,665.71,3,0.0,405.39,1997.13,1216.18,780.95
+11280,2024-08-08,South,Partner,Coffee Maker,Home,126.12,1,0.1,62.29,113.51,62.29,51.22
+11389,2024-08-08,South,Online,Backpack,Accessories,80.59,1,0.0,55.14,80.59,55.14,25.45
+10390,2024-08-09,South,Online,Notebook,Stationery,4.98,1,0.0,3.36,4.98,3.36,1.62
+10024,2024-08-10,North,Partner,Notebook,Stationery,5.19,2,0.0,2.85,10.38,5.7,4.68
+11140,2024-08-11,West,Online,Blender,Home,98.68,2,0.0,71.01,197.36,142.02,55.34
+10038,2024-08-12,East,Online,Office Chair,Furniture,179.87,1,0.05,90.21,170.88,90.21,80.67
+11363,2024-08-12,North,Retail,Coffee Maker,Home,142.42,1,0.1,72.96,128.18,72.96,55.22
+11227,2024-08-13,North,Online,Office Chair,Furniture,204.44,2,0.0,136.06,408.88,272.13,136.75
+10791,2024-08-13,South,Retail,Smartphone,Electronics,799.21,3,0.1,491.94,2157.87,1475.83,682.04
+10140,2024-08-13,South,Retail,Laptop,Electronics,1128.91,3,0.0,766.87,3386.73,2300.62,1086.11
+11068,2024-08-13,East,Retail,Blender,Home,55.03,1,0.1,38.01,49.53,38.01,11.52
+11566,2024-08-14,West,Retail,Office Chair,Furniture,193.56,2,0.0,103.41,387.12,206.82,180.3
+10656,2024-08-14,West,Retail,Headphones,Accessories,71.03,2,0.0,41.48,142.06,82.97,59.09
+10211,2024-08-14,South,Online,Blender,Home,67.3,1,0.0,34.41,67.3,34.41,32.89
+10830,2024-08-14,West,Partner,Headphones,Accessories,80.48,2,0.0,56.92,160.96,113.84,47.12
+11088,2024-08-14,South,Retail,Blender,Home,93.94,1,0.15,55.13,79.85,55.13,24.72
+11175,2024-08-15,South,Retail,Desk,Furniture,183.93,1,0.05,101.96,174.73,101.96,72.77
+11425,2024-08-15,South,Retail,Headphones,Accessories,89.45,3,0.0,44.44,268.35,133.33,135.02
+10404,2024-08-15,South,Partner,Smartphone,Electronics,485.1,2,0.0,260.99,970.2,521.98,448.22
+10627,2024-08-15,East,Online,Notebook,Stationery,5.57,1,0.0,4.04,5.57,4.04,1.53
+10022,2024-08-15,West,Online,Headphones,Accessories,71.57,2,0.0,42.87,143.14,85.73,57.41
+10066,2024-08-15,South,Retail,Desk,Furniture,130.33,2,0.0,65.34,260.66,130.69,129.97
+11397,2024-08-16,South,Online,Desk,Furniture,273.18,2,0.0,141.44,546.36,282.88,263.48
+11349,2024-08-17,East,Online,Office Chair,Furniture,106.2,1,0.0,56.89,106.2,56.89,49.31
+11060,2024-08-17,North,Partner,Blender,Home,105.39,2,0.0,58.69,210.78,117.38,93.4
+10001,2024-08-17,North,Online,Notebook,Stationery,7.48,1,0.05,5.42,7.11,5.42,1.69
+10593,2024-08-17,South,Retail,Headphones,Accessories,84.76,1,0.0,40.78,84.76,40.78,43.98
+11178,2024-08-18,South,Retail,Headphones,Accessories,139.17,3,0.0,94.21,417.51,282.64,134.87
+10515,2024-08-18,West,Retail,Headphones,Accessories,139.68,1,0.0,86.03,139.68,86.03,53.65
+10802,2024-08-18,North,Retail,Headphones,Accessories,136.03,1,0.0,73.94,136.03,73.94,62.09
+10961,2024-08-18,North,Online,Desk,Furniture,220.18,2,0.15,160.07,374.31,320.15,54.16
+11009,2024-08-18,East,Online,Blender,Home,58.54,2,0.1,32.01,105.37,64.01,41.36
+10421,2024-08-19,West,Online,Coffee Maker,Home,173.39,2,0.1,103.27,312.1,206.53,105.57
+11049,2024-08-19,North,Online,Notebook,Stationery,6.24,2,0.0,4.7,12.48,9.4,3.08
+11130,2024-08-19,South,Online,Backpack,Accessories,69.5,1,0.05,50.8,66.02,50.8,15.22
+11439,2024-08-19,South,Online,Backpack,Accessories,29.43,1,0.0,20.86,29.43,20.86,8.57
+10463,2024-08-20,East,Online,Backpack,Accessories,60.84,1,0.0,32.3,60.84,32.3,28.54
+11511,2024-08-20,North,Retail,Smartphone,Electronics,502.81,2,0.2,358.69,804.5,717.39,87.11
+11002,2024-08-21,West,Retail,Office Chair,Furniture,222.36,1,0.0,166.54,222.36,166.54,55.82
+10774,2024-08-21,North,Retail,Notebook,Stationery,7.03,1,0.0,3.75,7.03,3.75,3.28
+11568,2024-08-22,West,Retail,Laptop,Electronics,1201.71,3,0.05,620.05,3424.87,1860.15,1564.72
+11437,2024-08-22,West,Retail,Smartphone,Electronics,727.41,1,0.0,501.58,727.41,501.58,225.83
+10516,2024-08-23,South,Retail,Smartphone,Electronics,638.65,1,0.05,470.28,606.72,470.28,136.44
+10534,2024-08-24,North,Online,Coffee Maker,Home,158.76,2,0.0,86.15,317.52,172.29,145.23
+10444,2024-08-25,South,Retail,Smartphone,Electronics,832.47,1,0.15,621.28,707.6,621.28,86.32
+11001,2024-08-25,West,Partner,Laptop,Electronics,1249.26,4,0.0,814.72,4997.04,3258.86,1738.18
+10398,2024-08-25,North,Online,Headphones,Accessories,96.03,1,0.0,48.16,96.03,48.16,47.87
+10303,2024-08-25,East,Retail,Desk,Furniture,227.57,1,0.0,125.08,227.57,125.08,102.49
+10167,2024-08-26,South,Retail,Notebook,Stationery,2.53,1,0.15,1.94,2.15,1.94,0.21
+10058,2024-08-26,North,Partner,Desk,Furniture,205.2,1,0.1,155.48,184.68,155.48,29.2
+11325,2024-08-26,East,Online,Headphones,Accessories,97.77,1,0.05,67.42,92.88,67.42,25.46
+10286,2024-08-26,South,Online,Office Chair,Furniture,248.68,3,0.0,165.37,746.04,496.11,249.93
+10341,2024-08-27,North,Retail,Smartphone,Electronics,560.63,1,0.1,298.78,504.57,298.78,205.79
+10511,2024-08-27,East,Online,Laptop,Electronics,1124.45,3,0.0,567.76,3373.35,1703.29,1670.06
+11114,2024-08-27,South,Online,Backpack,Accessories,89.8,1,0.0,59.09,89.8,59.09,30.71
+10413,2024-08-27,East,Retail,Laptop,Electronics,1017.86,1,0.0,612.73,1017.86,612.73,405.13
+10496,2024-08-27,West,Online,Desk,Furniture,179.79,2,0.0,105.94,359.58,211.89,147.69
+11090,2024-08-27,West,Online,Office Chair,Furniture,133.93,1,0.0,66.06,133.93,66.06,67.87
+11446,2024-08-28,North,Online,Desk,Furniture,270.2,2,0.0,158.4,540.4,316.81,223.59
+10417,2024-08-28,South,Retail,Smartphone,Electronics,686.43,2,0.05,515.89,1304.22,1031.78,272.44
+11071,2024-08-28,North,Online,Notebook,Stationery,3.17,1,0.15,1.91,2.69,1.91,0.78
+11521,2024-08-29,West,Partner,Headphones,Accessories,53.21,1,0.0,28.25,53.21,28.25,24.96
+10111,2024-08-30,East,Online,Office Chair,Furniture,208.71,4,0.0,105.99,834.84,423.96,410.88
+10453,2024-08-30,West,Retail,Blender,Home,53.27,2,0.0,35.47,106.54,70.95,35.59
+11426,2024-08-30,South,Online,Office Chair,Furniture,170.94,2,0.0,99.49,341.88,198.99,142.89
+10376,2024-08-30,East,Online,Smartphone,Electronics,619.61,1,0.0,370.09,619.61,370.09,249.52
+10332,2024-08-31,West,Online,Smartphone,Electronics,606.18,1,0.1,344.18,545.56,344.18,201.38
+11083,2024-08-31,North,Online,Backpack,Accessories,43.52,4,0.0,32.1,174.08,128.42,45.66
+10284,2024-08-31,South,Partner,Headphones,Accessories,85.32,1,0.15,49.12,72.52,49.12,23.4
+11317,2024-08-31,East,Retail,Desk,Furniture,127.68,1,0.2,69.41,102.14,69.41,32.73
+10597,2024-08-31,East,Online,Blender,Home,47.29,1,0.0,30.19,47.29,30.19,17.1
+11550,2024-08-31,North,Online,Headphones,Accessories,106.77,3,0.0,75.63,320.31,226.89,93.42
+10710,2024-09-01,East,Online,Office Chair,Furniture,97.37,2,0.0,61.74,194.74,123.49,71.25
+11328,2024-09-01,North,Retail,Desk,Furniture,123.19,2,0.05,79.71,234.06,159.41,74.65
+10273,2024-09-02,West,Online,Laptop,Electronics,1057.32,1,0.0,549.56,1057.32,549.56,507.76
+11181,2024-09-02,North,Online,Blender,Home,42.22,1,0.1,31.23,38.0,31.23,6.77
+11457,2024-09-02,West,Partner,Smartphone,Electronics,691.67,3,0.0,480.69,2075.01,1442.07,632.94
+11417,2024-09-03,West,Retail,Desk,Furniture,118.33,4,0.0,65.05,473.32,260.22,213.1
+10368,2024-09-04,East,Retail,Blender,Home,58.11,1,0.0,30.64,58.11,30.64,27.47
+11116,2024-09-04,East,Online,Laptop,Electronics,1147.14,3,0.0,553.59,3441.42,1660.77,1780.65
+11139,2024-09-04,West,Retail,Laptop,Electronics,1235.64,1,0.0,602.43,1235.64,602.43,633.21
+10509,2024-09-04,North,Online,Desk,Furniture,181.3,1,0.1,130.68,163.17,130.68,32.49
+11084,2024-09-04,East,Retail,Notebook,Stationery,4.71,3,0.0,2.51,14.13,7.54,6.59
+11064,2024-09-04,West,Partner,Coffee Maker,Home,166.92,1,0.0,125.0,166.92,125.0,41.92
+10524,2024-09-05,West,Online,Coffee Maker,Home,62.71,2,0.0,34.35,125.42,68.69,56.73
+10532,2024-09-05,South,Online,Blender,Home,58.7,2,0.0,40.23,117.4,80.46,36.94
+11330,2024-09-05,North,Online,Smartphone,Electronics,470.88,1,0.0,322.42,470.88,322.42,148.46
+11004,2024-09-05,North,Online,Smartphone,Electronics,740.48,2,0.0,520.24,1480.96,1040.47,440.49
+10652,2024-09-05,North,Online,Notebook,Stationery,3.01,1,0.1,1.98,2.71,1.98,0.73
+11402,2024-09-05,East,Online,Laptop,Electronics,1008.32,4,0.0,580.45,4033.28,2321.81,1711.47
+10069,2024-09-05,North,Online,Laptop,Electronics,911.08,2,0.0,515.65,1822.16,1031.3,790.86
+11118,2024-09-05,East,Retail,Notebook,Stationery,3.32,1,0.05,1.71,3.15,1.71,1.44
+11519,2024-09-06,South,Online,Smartphone,Electronics,708.22,2,0.1,432.36,1274.8,864.73,410.07
+11318,2024-09-06,East,Online,Laptop,Electronics,1102.46,1,0.0,736.07,1102.46,736.07,366.39
+11100,2024-09-07,South,Online,Smartphone,Electronics,811.57,1,0.0,441.37,811.57,441.37,370.2
+10535,2024-09-07,South,Retail,Laptop,Electronics,1175.91,2,0.0,774.23,2351.82,1548.46,803.36
+11323,2024-09-08,West,Online,Laptop,Electronics,1234.92,1,0.15,724.23,1049.68,724.23,325.45
+10790,2024-09-08,North,Retail,Coffee Maker,Home,145.75,1,0.0,84.69,145.75,84.69,61.06
+10199,2024-09-08,East,Partner,Smartphone,Electronics,823.98,1,0.1,414.08,741.58,414.08,327.5
+10815,2024-09-08,North,Partner,Smartphone,Electronics,839.61,2,0.0,569.02,1679.22,1138.04,541.18
+10856,2024-09-09,North,Partner,Office Chair,Furniture,227.05,1,0.1,163.21,204.35,163.21,41.14
+10440,2024-09-09,East,Retail,Coffee Maker,Home,54.07,1,0.0,40.04,54.07,40.04,14.03
+11187,2024-09-09,West,Online,Office Chair,Furniture,123.16,1,0.0,60.58,123.16,60.58,62.58
+11239,2024-09-09,South,Retail,Smartphone,Electronics,459.29,1,0.0,346.89,459.29,346.89,112.4
+10772,2024-09-09,West,Online,Desk,Furniture,221.67,1,0.0,135.25,221.67,135.25,86.42
+10168,2024-09-09,East,Online,Notebook,Stationery,4.74,2,0.0,2.48,9.48,4.96,4.52
+10243,2024-09-09,East,Online,Headphones,Accessories,103.09,2,0.0,64.81,206.18,129.62,76.56
+11046,2024-09-09,East,Online,Headphones,Accessories,38.51,1,0.0,19.45,38.51,19.45,19.06
+10282,2024-09-10,South,Retail,Smartphone,Electronics,701.39,1,0.0,427.86,701.39,427.86,273.53
+10737,2024-09-10,West,Retail,Smartphone,Electronics,512.56,2,0.05,391.92,973.86,783.84,190.02
+11258,2024-09-10,North,Online,Notebook,Stationery,3.37,2,0.0,2.34,6.74,4.69,2.05
+10823,2024-09-11,North,Retail,Headphones,Accessories,108.99,1,0.0,57.93,108.99,57.93,51.06
+11455,2024-09-11,South,Retail,Headphones,Accessories,57.9,1,0.0,31.15,57.9,31.15,26.75
+11288,2024-09-12,East,Online,Headphones,Accessories,49.24,2,0.0,31.47,98.48,62.93,35.55
+10107,2024-09-12,South,Online,Office Chair,Furniture,113.2,1,0.0,72.58,113.2,72.58,40.62
+11499,2024-09-12,East,Online,Headphones,Accessories,49.58,1,0.0,35.82,49.58,35.82,13.76
+10234,2024-09-12,North,Retail,Coffee Maker,Home,177.2,1,0.1,116.64,159.48,116.64,42.84
+11267,2024-09-13,North,Partner,Smartphone,Electronics,676.16,1,0.0,425.78,676.16,425.78,250.38
+11458,2024-09-13,East,Retail,Office Chair,Furniture,93.09,3,0.0,68.09,279.27,204.26,75.01
+11008,2024-09-13,North,Online,Headphones,Accessories,69.35,2,0.05,38.57,131.76,77.14,54.62
+10437,2024-09-13,North,Online,Smartphone,Electronics,721.59,1,0.2,494.55,577.27,494.55,82.72
+10439,2024-09-13,East,Retail,Blender,Home,80.1,1,0.2,39.24,64.08,39.24,24.84
+10285,2024-09-14,East,Online,Coffee Maker,Home,142.02,1,0.0,69.26,142.02,69.26,72.76
+11348,2024-09-14,West,Retail,Headphones,Accessories,135.58,1,0.0,65.3,135.58,65.3,70.28
+11160,2024-09-15,South,Retail,Notebook,Stationery,6.75,1,0.05,4.73,6.41,4.73,1.68
+11242,2024-09-15,North,Retail,Headphones,Accessories,62.8,1,0.2,37.55,50.24,37.55,12.69
+10549,2024-09-15,South,Online,Blender,Home,65.45,4,0.0,36.92,261.8,147.7,114.1
+10753,2024-09-15,South,Online,Headphones,Accessories,62.42,3,0.0,44.24,187.26,132.73,54.53
+11376,2024-09-15,North,Online,Laptop,Electronics,951.63,2,0.0,501.97,1903.26,1003.95,899.31
+11011,2024-09-16,North,Online,Coffee Maker,Home,102.07,4,0.05,77.63,387.87,310.52,77.35
+11430,2024-09-16,South,Retail,Office Chair,Furniture,127.39,2,0.0,89.14,254.78,178.27,76.51
+10612,2024-09-16,West,Retail,Coffee Maker,Home,89.26,2,0.15,55.98,151.74,111.95,39.79
+11456,2024-09-16,North,Partner,Laptop,Electronics,1005.14,2,0.0,484.76,2010.28,969.53,1040.75
+10197,2024-09-17,North,Online,Coffee Maker,Home,132.56,1,0.0,69.01,132.56,69.01,63.55
+10344,2024-09-17,West,Retail,Coffee Maker,Home,163.73,1,0.0,123.21,163.73,123.21,40.52
+10505,2024-09-17,North,Online,Desk,Furniture,135.13,2,0.1,78.28,243.23,156.56,86.67
+10991,2024-09-18,East,Online,Coffee Maker,Home,172.78,1,0.0,133.53,172.78,133.53,39.25
+10986,2024-09-18,East,Online,Backpack,Accessories,67.22,1,0.0,46.35,67.22,46.35,20.87
+10965,2024-09-18,North,Online,Backpack,Accessories,33.33,2,0.0,17.28,66.66,34.57,32.09
+10517,2024-09-18,West,Online,Headphones,Accessories,77.02,1,0.0,54.89,77.02,54.89,22.13
+10704,2024-09-19,East,Online,Notebook,Stationery,4.1,1,0.05,3.01,3.89,3.01,0.88
+11522,2024-09-19,East,Online,Desk,Furniture,275.57,1,0.1,206.39,248.01,206.39,41.62
+10350,2024-09-21,North,Online,Laptop,Electronics,1150.78,1,0.0,568.73,1150.78,568.73,582.05
+10556,2024-09-21,East,Online,Headphones,Accessories,114.56,2,0.1,63.61,206.21,127.22,78.99
+11108,2024-09-21,North,Online,Office Chair,Furniture,259.08,1,0.15,137.39,220.22,137.39,82.83
+10954,2024-09-21,South,Partner,Smartphone,Electronics,633.43,1,0.0,311.05,633.43,311.05,322.38
+10322,2024-09-22,North,Online,Office Chair,Furniture,108.46,1,0.1,67.82,97.61,67.82,29.79
+11486,2024-09-23,West,Online,Laptop,Electronics,1069.75,2,0.0,644.23,2139.5,1288.46,851.04
+10867,2024-09-23,South,Retail,Notebook,Stationery,6.64,1,0.0,3.5,6.64,3.5,3.14
+11121,2024-09-23,West,Online,Coffee Maker,Home,49.93,1,0.0,38.03,49.93,38.03,11.9
+10431,2024-09-24,West,Retail,Backpack,Accessories,75.8,1,0.05,47.4,72.01,47.4,24.61
+11061,2024-09-24,North,Retail,Backpack,Accessories,34.93,1,0.05,24.21,33.18,24.21,8.97
+10387,2024-09-24,North,Retail,Blender,Home,76.68,1,0.05,46.71,72.85,46.71,26.14
+10085,2024-09-24,South,Online,Laptop,Electronics,1092.61,2,0.05,849.88,2075.96,1699.76,376.2
+10570,2024-09-25,East,Online,Desk,Furniture,155.3,1,0.0,97.22,155.3,97.22,58.08
+11600,2024-09-25,North,Online,Headphones,Accessories,103.01,1,0.0,54.84,103.01,54.84,48.17
+11244,2024-09-26,South,Retail,Laptop,Electronics,863.31,2,0.1,651.81,1553.96,1303.62,250.34
+11387,2024-09-26,North,Online,Blender,Home,80.78,1,0.0,60.37,80.78,60.37,20.41
+10714,2024-09-27,West,Partner,Backpack,Accessories,74.87,1,0.0,40.96,74.87,40.96,33.91
+10850,2024-09-28,East,Retail,Backpack,Accessories,56.94,1,0.0,29.44,56.94,29.44,27.5
+10962,2024-09-28,South,Retail,Office Chair,Furniture,118.8,2,0.15,90.01,201.96,180.01,21.95
+11184,2024-09-29,North,Online,Smartphone,Electronics,516.12,1,0.0,332.82,516.12,332.82,183.3
+11231,2024-09-29,East,Retail,Smartphone,Electronics,663.0,1,0.0,482.65,663.0,482.65,180.35
+10278,2024-09-30,North,Retail,Desk,Furniture,126.51,1,0.0,69.38,126.51,69.38,57.13
+11351,2024-09-30,South,Online,Notebook,Stationery,2.39,1,0.2,1.35,1.91,1.35,0.56
+10782,2024-09-30,East,Partner,Backpack,Accessories,60.33,3,0.0,45.08,180.99,135.24,45.75
+10363,2024-09-30,East,Online,Smartphone,Electronics,722.27,2,0.1,453.15,1300.09,906.29,393.8
+11051,2024-09-30,West,Online,Coffee Maker,Home,93.46,2,0.15,63.44,158.88,126.88,32.0
+11368,2024-10-01,East,Online,Smartphone,Electronics,725.37,2,0.0,537.17,1450.74,1074.35,376.39
+10343,2024-10-01,North,Online,Notebook,Stationery,3.86,1,0.0,1.95,3.86,1.95,1.91
+10074,2024-10-01,East,Partner,Headphones,Accessories,98.14,2,0.0,70.29,196.28,140.59,55.69
+10594,2024-10-01,North,Online,Coffee Maker,Home,106.46,1,0.2,81.11,85.17,81.11,4.06
+11205,2024-10-02,North,Partner,Laptop,Electronics,1201.89,2,0.05,921.93,2283.59,1843.86,439.73
+10015,2024-10-03,East,Online,Office Chair,Furniture,110.03,1,0.0,69.49,110.03,69.49,40.54
+10337,2024-10-04,East,Online,Laptop,Electronics,996.2,1,0.0,766.36,996.2,766.36,229.84
+10081,2024-10-04,East,Online,Coffee Maker,Home,97.9,1,0.05,52.32,93.0,52.32,40.68
+11385,2024-10-04,South,Retail,Backpack,Accessories,66.94,2,0.0,47.95,133.88,95.9,37.98
+10903,2024-10-05,South,Online,Laptop,Electronics,852.2,2,0.0,656.42,1704.4,1312.84,391.56
+10797,2024-10-07,East,Retail,Laptop,Electronics,968.44,2,0.0,599.32,1936.88,1198.63,738.25
+10076,2024-10-07,South,Online,Headphones,Accessories,138.7,1,0.0,101.64,138.7,101.64,37.06
+10382,2024-10-07,North,Retail,Backpack,Accessories,94.08,2,0.15,52.35,159.94,104.7,55.24
+10039,2024-10-07,South,Online,Smartphone,Electronics,818.67,1,0.0,629.28,818.67,629.28,189.39
+10673,2024-10-07,South,Retail,Backpack,Accessories,54.45,1,0.0,37.06,54.45,37.06,17.39
+10374,2024-10-08,East,Retail,Headphones,Accessories,118.48,1,0.05,79.72,112.56,79.72,32.84
+11148,2024-10-08,West,Online,Notebook,Stationery,6.96,1,0.1,5.09,6.26,5.09,1.17
+10222,2024-10-08,East,Online,Office Chair,Furniture,206.28,1,0.0,142.17,206.28,142.17,64.11
+11440,2024-10-08,South,Online,Backpack,Accessories,79.7,1,0.1,42.49,71.73,42.49,29.24
+11000,2024-10-08,South,Retail,Headphones,Accessories,99.7,2,0.0,68.9,199.4,137.81,61.59
+11445,2024-10-09,West,Online,Smartphone,Electronics,570.34,1,0.0,323.63,570.34,323.63,246.71
+10124,2024-10-09,East,Online,Office Chair,Furniture,186.52,1,0.0,93.4,186.52,93.4,93.12
+10219,2024-10-09,East,Retail,Backpack,Accessories,89.6,1,0.05,47.02,85.12,47.02,38.1
+10187,2024-10-09,East,Retail,Headphones,Accessories,87.83,4,0.0,56.82,351.32,227.29,124.03
+10339,2024-10-09,East,Online,Laptop,Electronics,1107.09,1,0.0,851.95,1107.09,851.95,255.14
+10375,2024-10-09,North,Online,Smartphone,Electronics,833.64,1,0.05,576.57,791.96,576.57,215.39
+11514,2024-10-10,West,Retail,Blender,Home,38.74,1,0.0,28.25,38.74,28.25,10.49
+11080,2024-10-10,West,Partner,Headphones,Accessories,138.39,1,0.0,76.5,138.39,76.5,61.89
+11237,2024-10-10,South,Partner,Smartphone,Electronics,710.25,1,0.05,514.83,674.74,514.83,159.91
+10051,2024-10-10,East,Online,Smartphone,Electronics,682.69,1,0.1,359.52,614.42,359.52,254.9
+10700,2024-10-10,East,Online,Headphones,Accessories,116.05,2,0.0,87.29,232.1,174.58,57.52
+10798,2024-10-11,South,Online,Smartphone,Electronics,713.43,2,0.0,530.24,1426.86,1060.47,366.39
+10806,2024-10-11,East,Online,Smartphone,Electronics,614.46,1,0.0,463.92,614.46,463.92,150.54
+11192,2024-10-11,East,Online,Office Chair,Furniture,207.99,2,0.1,133.87,374.38,267.73,106.65
+10543,2024-10-11,South,Retail,Notebook,Stationery,6.83,1,0.0,5.22,6.83,5.22,1.61
+10748,2024-10-11,South,Online,Office Chair,Furniture,187.36,1,0.0,134.92,187.36,134.92,52.44
+10203,2024-10-12,South,Retail,Desk,Furniture,269.51,1,0.0,174.54,269.51,174.54,94.97
+11243,2024-10-12,East,Partner,Headphones,Accessories,131.56,2,0.1,99.78,236.81,199.57,37.24
+11203,2024-10-12,West,Retail,Notebook,Stationery,5.52,3,0.15,3.17,14.08,9.5,4.58
+10327,2024-10-12,East,Online,Notebook,Stationery,4.99,3,0.0,3.17,14.97,9.5,5.47
+11066,2024-10-13,North,Online,Backpack,Accessories,64.28,3,0.0,47.52,192.84,142.55,50.29
+11380,2024-10-13,North,Online,Office Chair,Furniture,124.41,1,0.1,91.89,111.97,91.89,20.08
+11126,2024-10-13,East,Retail,Desk,Furniture,317.9,2,0.1,171.63,572.22,343.26,228.96
+10895,2024-10-13,East,Retail,Blender,Home,38.63,1,0.0,20.55,38.63,20.55,18.08
+11138,2024-10-14,West,Online,Office Chair,Furniture,201.49,3,0.0,130.05,604.47,390.15,214.32
+10763,2024-10-14,East,Online,Laptop,Electronics,1006.88,1,0.0,782.53,1006.88,782.53,224.35
+10048,2024-10-15,North,Online,Headphones,Accessories,77.87,2,0.0,45.1,155.74,90.21,65.53
+10385,2024-10-15,East,Retail,Headphones,Accessories,74.31,2,0.1,55.31,133.76,110.63,23.13
+10169,2024-10-15,South,Retail,Headphones,Accessories,104.94,1,0.1,76.16,94.45,76.16,18.29
+10726,2024-10-15,South,Retail,Laptop,Electronics,988.81,1,0.0,488.15,988.81,488.15,500.66
+10236,2024-10-15,South,Retail,Notebook,Stationery,3.76,2,0.05,2.59,7.14,5.18,1.96
+10716,2024-10-16,North,Retail,Smartphone,Electronics,836.59,1,0.0,614.23,836.59,614.23,222.36
+11461,2024-10-16,North,Online,Notebook,Stationery,6.94,1,0.0,4.75,6.94,4.75,2.19
+10441,2024-10-16,East,Online,Notebook,Stationery,6.7,2,0.0,4.24,13.4,8.48,4.92
+10906,2024-10-17,North,Retail,Coffee Maker,Home,45.13,1,0.0,23.34,45.13,23.34,21.79
+11012,2024-10-17,West,Online,Coffee Maker,Home,149.17,1,0.0,94.5,149.17,94.5,54.67
+10725,2024-10-17,South,Retail,Smartphone,Electronics,464.91,1,0.0,316.25,464.91,316.25,148.66
+10909,2024-10-18,South,Online,Headphones,Accessories,88.55,1,0.2,48.38,70.84,48.38,22.46
+10200,2024-10-19,East,Retail,Headphones,Accessories,123.89,1,0.0,72.6,123.89,72.6,51.29
+10267,2024-10-20,West,Partner,Headphones,Accessories,93.28,1,0.0,70.85,93.28,70.85,22.43
+10075,2024-10-20,North,Online,Laptop,Electronics,1242.4,1,0.0,800.23,1242.4,800.23,442.17
+10528,2024-10-20,East,Retail,Backpack,Accessories,89.54,1,0.0,50.3,89.54,50.3,39.24
+10902,2024-10-21,North,Partner,Headphones,Accessories,120.21,1,0.0,76.75,120.21,76.75,43.46
+10576,2024-10-21,West,Online,Desk,Furniture,161.87,1,0.0,83.54,161.87,83.54,78.33
+10435,2024-10-21,South,Online,Laptop,Electronics,1148.47,2,0.0,572.5,2296.94,1145.0,1151.94
+10351,2024-10-21,North,Online,Coffee Maker,Home,164.25,1,0.0,112.56,164.25,112.56,51.69
+10324,2024-10-22,West,Online,Desk,Furniture,145.52,1,0.1,93.6,130.97,93.6,37.37
+11296,2024-10-22,East,Online,Headphones,Accessories,128.29,1,0.05,98.86,121.88,98.86,23.02
+10736,2024-10-22,North,Online,Blender,Home,98.41,2,0.0,65.72,196.82,131.44,65.38
+11383,2024-10-22,East,Retail,Desk,Furniture,112.43,2,0.0,81.8,224.86,163.6,61.26
+11347,2024-10-23,East,Online,Office Chair,Furniture,190.41,2,0.0,114.59,380.82,229.18,151.64
+10012,2024-10-23,South,Retail,Backpack,Accessories,84.39,1,0.0,62.47,84.39,62.47,21.92
+10936,2024-10-23,West,Online,Smartphone,Electronics,655.7,2,0.05,433.04,1245.83,866.09,379.74
+10977,2024-10-24,South,Retail,Office Chair,Furniture,214.3,2,0.0,144.85,428.6,289.71,138.89
+10062,2024-10-24,South,Partner,Office Chair,Furniture,214.06,2,0.0,135.49,428.12,270.98,157.14
+10216,2024-10-24,West,Online,Blender,Home,43.19,4,0.0,28.64,172.76,114.55,58.21
+11449,2024-10-25,West,Online,Coffee Maker,Home,112.37,1,0.0,79.36,112.37,79.36,33.01
+10835,2024-10-25,North,Online,Blender,Home,95.89,1,0.1,52.39,86.3,52.39,33.91
+10713,2024-10-25,East,Online,Notebook,Stationery,2.72,1,0.0,1.7,2.72,1.7,1.02
+11366,2024-10-25,North,Retail,Desk,Furniture,164.46,1,0.0,81.16,164.46,81.16,83.3
+10371,2024-10-26,East,Online,Blender,Home,99.17,2,0.0,48.53,198.34,97.05,101.29
+10507,2024-10-26,North,Online,Headphones,Accessories,70.74,2,0.0,38.64,141.48,77.29,64.19
+11248,2024-10-26,South,Retail,Smartphone,Electronics,496.97,1,0.0,252.42,496.97,252.42,244.55
+10386,2024-10-28,South,Online,Backpack,Accessories,60.79,1,0.1,36.23,54.71,36.23,18.48
+11161,2024-10-28,South,Online,Laptop,Electronics,971.88,1,0.1,538.52,874.69,538.52,336.17
+10468,2024-10-28,West,Online,Backpack,Accessories,26.36,1,0.0,17.36,26.36,17.36,9.0
+11571,2024-10-29,North,Retail,Office Chair,Furniture,163.24,3,0.2,115.95,391.78,347.84,43.94
+11023,2024-10-29,East,Online,Backpack,Accessories,48.41,1,0.1,29.0,43.57,29.0,14.57
+11144,2024-10-29,East,Retail,Notebook,Stationery,5.93,1,0.15,4.01,5.04,4.01,1.03
+10719,2024-10-29,East,Online,Coffee Maker,Home,84.45,1,0.2,43.19,67.56,43.19,24.37
+10445,2024-10-30,West,Retail,Headphones,Accessories,107.02,1,0.0,77.55,107.02,77.55,29.47
+11394,2024-10-31,North,Partner,Laptop,Electronics,1028.54,1,0.0,632.7,1028.54,632.7,395.84
+11535,2024-11-01,North,Partner,Laptop,Electronics,1070.03,1,0.0,607.71,1070.03,607.71,462.32
+10577,2024-11-01,North,Online,Backpack,Accessories,63.45,1,0.0,31.51,63.45,31.51,31.94
+11589,2024-11-01,North,Partner,Headphones,Accessories,43.89,2,0.0,24.79,87.78,49.58,38.2
+10718,2024-11-01,East,Retail,Smartphone,Electronics,505.35,2,0.0,376.19,1010.7,752.38,258.32
+10170,2024-11-01,West,Partner,Backpack,Accessories,43.98,1,0.0,32.47,43.98,32.47,11.51
+10436,2024-11-02,East,Online,Smartphone,Electronics,729.71,1,0.0,375.1,729.71,375.1,354.61
+11274,2024-11-02,North,Online,Coffee Maker,Home,151.35,3,0.0,95.06,454.05,285.18,168.87
+11285,2024-11-02,South,Retail,Backpack,Accessories,25.94,1,0.1,19.67,23.35,19.67,3.68
+10355,2024-11-04,East,Retail,Office Chair,Furniture,229.35,2,0.2,127.21,366.96,254.43,112.53
+11014,2024-11-04,South,Retail,Backpack,Accessories,88.8,4,0.2,60.47,284.16,241.87,42.29
+10956,2024-11-04,South,Partner,Notebook,Stationery,3.27,2,0.0,2.22,6.54,4.43,2.11
+10293,2024-11-05,East,Online,Backpack,Accessories,27.71,1,0.0,16.26,27.71,16.26,11.45
+10771,2024-11-05,East,Online,Headphones,Accessories,81.69,1,0.0,42.79,81.69,42.79,38.9
+10923,2024-11-05,North,Online,Coffee Maker,Home,62.61,1,0.0,42.76,62.61,42.76,19.85
+10333,2024-11-06,West,Retail,Blender,Home,102.54,1,0.0,79.91,102.54,79.91,22.63
+11528,2024-11-06,North,Online,Office Chair,Furniture,126.49,2,0.0,71.88,252.98,143.75,109.23
+10984,2024-11-08,North,Online,Office Chair,Furniture,202.5,1,0.0,141.69,202.5,141.69,60.81
+10988,2024-11-08,West,Retail,Laptop,Electronics,1034.84,1,0.0,568.19,1034.84,568.19,466.65
+10127,2024-11-08,West,Online,Headphones,Accessories,86.33,1,0.2,45.33,69.06,45.33,23.73
+10959,2024-11-09,West,Retail,Desk,Furniture,170.79,1,0.0,90.06,170.79,90.06,80.73
+11251,2024-11-09,East,Retail,Laptop,Electronics,975.68,1,0.0,678.09,975.68,678.09,297.59
+10562,2024-11-09,East,Online,Headphones,Accessories,73.9,1,0.0,49.24,73.9,49.24,24.66
+10585,2024-11-10,East,Retail,Backpack,Accessories,82.78,1,0.0,46.89,82.78,46.89,35.89
+11312,2024-11-10,East,Online,Backpack,Accessories,39.09,2,0.0,21.41,78.18,42.82,35.36
+10665,2024-11-10,South,Retail,Headphones,Accessories,110.25,3,0.0,62.66,330.75,187.99,142.76
+10130,2024-11-10,North,Retail,Coffee Maker,Home,94.28,1,0.1,62.28,84.85,62.28,22.57
+11378,2024-11-10,North,Retail,Notebook,Stationery,2.36,3,0.0,1.43,7.08,4.3,2.78
+11352,2024-11-12,West,Online,Notebook,Stationery,6.53,3,0.1,4.33,17.63,13.0,4.63
+10396,2024-11-12,North,Online,Office Chair,Furniture,252.15,1,0.0,135.93,252.15,135.93,116.22
+11373,2024-11-12,North,Online,Office Chair,Furniture,210.68,2,0.1,101.68,379.22,203.35,175.87
+11467,2024-11-12,West,Online,Office Chair,Furniture,99.21,1,0.15,71.58,84.33,71.58,12.75
+10875,2024-11-13,North,Partner,Blender,Home,84.11,1,0.0,50.91,84.11,50.91,33.2
+11518,2024-11-13,West,Retail,Backpack,Accessories,34.96,2,0.0,22.67,69.92,45.34,24.58
+10864,2024-11-13,East,Online,Desk,Furniture,191.63,2,0.0,114.07,383.26,228.13,155.13
+10837,2024-11-14,West,Online,Blender,Home,67.07,2,0.0,37.57,134.14,75.13,59.01
+10503,2024-11-14,North,Online,Backpack,Accessories,72.26,1,0.0,40.9,72.26,40.9,31.36
+11524,2024-11-15,North,Retail,Blender,Home,94.93,1,0.15,68.06,80.69,68.06,12.63
+10622,2024-11-15,West,Retail,Office Chair,Furniture,192.39,3,0.0,112.19,577.17,336.57,240.6
+11335,2024-11-16,West,Online,Backpack,Accessories,37.79,3,0.0,24.13,113.37,72.38,40.99
+10847,2024-11-17,East,Retail,Office Chair,Furniture,164.07,2,0.0,101.26,328.14,202.53,125.61
+11024,2024-11-18,West,Partner,Desk,Furniture,131.13,1,0.0,80.95,131.13,80.95,50.18
+10486,2024-11-19,North,Online,Office Chair,Furniture,190.13,1,0.1,98.22,171.12,98.22,72.9
+11189,2024-11-19,South,Online,Smartphone,Electronics,500.35,1,0.0,319.87,500.35,319.87,180.48
+11344,2024-11-19,South,Retail,Desk,Furniture,324.17,1,0.0,229.47,324.17,229.47,94.7
+10105,2024-11-19,North,Retail,Notebook,Stationery,7.39,1,0.05,3.7,7.02,3.7,3.32
+10478,2024-11-20,North,Retail,Coffee Maker,Home,89.17,3,0.0,46.85,267.51,140.55,126.96
+11502,2024-11-20,North,Online,Backpack,Accessories,51.14,3,0.15,36.33,130.41,108.98,21.43
+11165,2024-11-20,South,Retail,Smartphone,Electronics,789.37,1,0.0,482.6,789.37,482.6,306.77
+11504,2024-11-21,West,Retail,Office Chair,Furniture,253.13,2,0.0,154.97,506.26,309.94,196.32
+11131,2024-11-21,North,Online,Backpack,Accessories,59.77,1,0.0,34.3,59.77,34.3,25.47
+11384,2024-11-21,East,Online,Backpack,Accessories,73.51,3,0.0,39.74,220.53,119.23,101.3
+10348,2024-11-21,South,Partner,Headphones,Accessories,79.7,1,0.0,40.52,79.7,40.52,39.18
+11074,2024-11-21,West,Online,Backpack,Accessories,30.85,2,0.0,18.61,61.7,37.22,24.48
+10664,2024-11-21,South,Retail,Laptop,Electronics,1190.28,2,0.05,708.66,2261.53,1417.31,844.22
+10734,2024-11-21,East,Online,Headphones,Accessories,125.43,2,0.0,64.68,250.86,129.36,121.5
+10975,2024-11-22,South,Online,Headphones,Accessories,40.08,2,0.0,23.68,80.16,47.36,32.8
+11370,2024-11-22,South,Retail,Headphones,Accessories,136.53,1,0.0,65.75,136.53,65.75,70.78
+10112,2024-11-23,East,Retail,Smartphone,Electronics,750.61,1,0.05,556.06,713.08,556.06,157.02
+10089,2024-11-23,West,Partner,Smartphone,Electronics,485.89,1,0.0,343.52,485.89,343.52,142.37
+10547,2024-11-23,North,Retail,Office Chair,Furniture,127.72,2,0.0,75.23,255.44,150.46,104.98
+11092,2024-11-24,East,Online,Coffee Maker,Home,79.52,1,0.1,40.38,71.57,40.38,31.19
+10405,2024-11-25,South,Partner,Backpack,Accessories,80.75,3,0.05,54.82,230.14,164.46,65.68
+10232,2024-11-26,West,Retail,Office Chair,Furniture,100.32,1,0.0,66.52,100.32,66.52,33.8
+10221,2024-11-26,North,Retail,Headphones,Accessories,139.94,1,0.0,95.47,139.94,95.47,44.47
+11185,2024-11-26,North,Online,Smartphone,Electronics,641.17,1,0.0,315.24,641.17,315.24,325.93
+11527,2024-11-27,North,Retail,Headphones,Accessories,123.16,1,0.15,92.39,104.69,92.39,12.3
+10887,2024-11-27,West,Retail,Office Chair,Furniture,149.38,2,0.0,98.35,298.76,196.69,102.07
+11257,2024-11-27,South,Partner,Blender,Home,74.64,2,0.0,39.09,149.28,78.18,71.1
+11309,2024-11-27,West,Retail,Laptop,Electronics,948.96,1,0.15,526.84,806.62,526.84,279.78
+10021,2024-11-27,South,Online,Blender,Home,32.2,1,0.05,20.9,30.59,20.9,9.69
+11179,2024-11-27,West,Online,Smartphone,Electronics,688.78,2,0.0,402.85,1377.56,805.71,571.85
+10116,2024-11-27,South,Online,Notebook,Stationery,7.83,2,0.0,4.48,15.66,8.96,6.7
+10712,2024-11-28,East,Online,Blender,Home,104.36,2,0.0,56.2,208.72,112.4,96.32
+10201,2024-11-28,North,Online,Notebook,Stationery,7.99,1,0.0,5.26,7.99,5.26,2.73
+10323,2024-11-28,North,Retail,Headphones,Accessories,84.71,1,0.05,60.87,80.47,60.87,19.6
+10204,2024-11-29,North,Partner,Smartphone,Electronics,623.84,3,0.0,426.55,1871.52,1279.64,591.88
+10019,2024-11-29,West,Retail,Notebook,Stationery,7.25,1,0.1,4.31,6.53,4.31,2.22
+10275,2024-11-30,West,Online,Blender,Home,40.34,1,0.0,29.07,40.34,29.07,11.27
+10489,2024-11-30,East,Online,Coffee Maker,Home,76.64,1,0.1,44.08,68.98,44.08,24.9
+10335,2024-12-01,North,Online,Smartphone,Electronics,824.22,1,0.0,456.57,824.22,456.57,367.65
+11264,2024-12-01,South,Partner,Backpack,Accessories,79.14,1,0.0,40.36,79.14,40.36,38.78
+10194,2024-12-01,North,Online,Notebook,Stationery,6.04,1,0.05,4.56,5.74,4.56,1.18
+10372,2024-12-01,South,Retail,Headphones,Accessories,63.43,1,0.15,42.33,53.92,42.33,11.59
+10942,2024-12-02,East,Online,Notebook,Stationery,7.27,1,0.1,4.8,6.54,4.8,1.74
+10624,2024-12-02,West,Retail,Office Chair,Furniture,231.0,1,0.0,113.81,231.0,113.81,117.19
+10701,2024-12-02,East,Retail,Headphones,Accessories,78.46,1,0.05,50.94,74.54,50.94,23.6
+10933,2024-12-02,North,Retail,Office Chair,Furniture,184.16,1,0.1,141.21,165.74,141.21,24.53
+11398,2024-12-03,West,Retail,Backpack,Accessories,94.02,1,0.0,72.18,94.02,72.18,21.84
+10779,2024-12-03,East,Online,Notebook,Stationery,2.22,1,0.0,1.21,2.22,1.21,1.01
+11538,2024-12-03,East,Online,Blender,Home,46.48,1,0.0,31.36,46.48,31.36,15.12
+10752,2024-12-03,North,Online,Headphones,Accessories,137.88,1,0.0,91.01,137.88,91.01,46.87
+10559,2024-12-04,North,Partner,Coffee Maker,Home,133.51,2,0.0,93.8,267.02,187.59,79.43
+10250,2024-12-04,South,Online,Office Chair,Furniture,169.13,1,0.0,100.98,169.13,100.98,68.15
+10950,2024-12-04,West,Retail,Headphones,Accessories,102.85,4,0.05,51.81,390.83,207.25,183.58
+10653,2024-12-05,North,Online,Blender,Home,72.13,1,0.0,55.85,72.13,55.85,16.28
+11153,2024-12-05,West,Online,Laptop,Electronics,1050.25,3,0.0,681.26,3150.75,2043.79,1106.96
+11546,2024-12-05,West,Retail,Office Chair,Furniture,167.3,1,0.1,93.43,150.57,93.43,57.14
+10773,2024-12-06,South,Retail,Coffee Maker,Home,155.5,1,0.0,78.14,155.5,78.14,77.36
+10550,2024-12-06,West,Retail,Office Chair,Furniture,207.64,1,0.0,131.21,207.64,131.21,76.43
+10706,2024-12-06,East,Online,Desk,Furniture,264.32,1,0.0,178.68,264.32,178.68,85.64
+10634,2024-12-07,South,Online,Headphones,Accessories,107.22,1,0.05,57.94,101.86,57.94,43.92
+11327,2024-12-07,East,Online,Headphones,Accessories,73.15,2,0.0,49.91,146.3,99.83,46.47
+10255,2024-12-07,East,Partner,Headphones,Accessories,54.99,1,0.0,28.52,54.99,28.52,26.47
+10349,2024-12-07,North,Online,Coffee Maker,Home,128.04,1,0.0,84.52,128.04,84.52,43.52
+10731,2024-12-07,East,Online,Headphones,Accessories,87.59,1,0.1,50.89,78.83,50.89,27.94
+10897,2024-12-08,West,Partner,Headphones,Accessories,121.17,1,0.1,83.79,109.05,83.79,25.26
+10839,2024-12-08,West,Retail,Office Chair,Furniture,124.27,2,0.05,61.9,236.11,123.81,112.3
+10853,2024-12-08,East,Retail,Notebook,Stationery,3.87,2,0.0,2.83,7.74,5.66,2.08
+11399,2024-12-08,South,Online,Desk,Furniture,188.09,1,0.0,109.85,188.09,109.85,78.24
+10674,2024-12-10,West,Online,Blender,Home,34.33,1,0.0,24.69,34.33,24.69,9.64
+10964,2024-12-10,West,Online,Smartphone,Electronics,620.32,1,0.0,368.27,620.32,368.27,252.05
+10010,2024-12-11,South,Online,Office Chair,Furniture,250.45,1,0.0,183.83,250.45,183.83,66.62
+10495,2024-12-12,East,Retail,Notebook,Stationery,2.96,2,0.05,1.45,5.62,2.91,2.71
+11340,2024-12-13,East,Online,Headphones,Accessories,102.7,1,0.0,74.21,102.7,74.21,28.49
+10422,2024-12-14,East,Retail,Laptop,Electronics,1057.51,1,0.1,795.87,951.76,795.87,155.89
+11587,2024-12-14,West,Retail,Headphones,Accessories,52.41,1,0.0,35.67,52.41,35.67,16.74
+11447,2024-12-15,East,Retail,Backpack,Accessories,77.09,1,0.0,59.76,77.09,59.76,17.33
+10309,2024-12-16,North,Online,Headphones,Accessories,69.45,2,0.05,44.99,131.96,89.98,41.98
+10846,2024-12-16,East,Online,Notebook,Stationery,4.21,1,0.0,2.57,4.21,2.57,1.64
+10686,2024-12-16,North,Online,Headphones,Accessories,116.09,1,0.2,79.62,92.87,79.62,13.25
+11462,2024-12-16,North,Online,Desk,Furniture,292.2,1,0.0,226.81,292.2,226.81,65.39
+11412,2024-12-17,East,Partner,Backpack,Accessories,52.75,3,0.0,26.99,158.25,80.97,77.28
+10065,2024-12-18,West,Online,Coffee Maker,Home,128.52,3,0.0,88.41,385.56,265.22,120.34
+10695,2024-12-18,South,Retail,Backpack,Accessories,57.9,1,0.0,38.5,57.9,38.5,19.4
+10588,2024-12-18,South,Online,Headphones,Accessories,80.32,1,0.0,39.56,80.32,39.56,40.76
+10732,2024-12-19,North,Retail,Laptop,Electronics,867.09,1,0.15,541.91,737.03,541.91,195.12
+10480,2024-12-19,West,Partner,Office Chair,Furniture,174.26,2,0.0,96.08,348.52,192.16,156.36
+10890,2024-12-19,North,Online,Blender,Home,87.96,2,0.15,57.09,149.53,114.18,35.35
+10357,2024-12-19,North,Online,Blender,Home,52.95,2,0.1,32.42,95.31,64.85,30.46
+10403,2024-12-20,South,Online,Notebook,Stationery,7.58,1,0.0,4.89,7.58,4.89,2.69
+10529,2024-12-20,North,Online,Notebook,Stationery,3.29,2,0.0,1.97,6.58,3.94,2.64
+11326,2024-12-20,North,Online,Notebook,Stationery,7.52,1,0.0,3.84,7.52,3.84,3.68
+11558,2024-12-21,West,Retail,Desk,Furniture,219.11,1,0.15,168.26,186.24,168.26,17.98
+11173,2024-12-21,South,Online,Headphones,Accessories,35.55,2,0.0,22.17,71.1,44.34,26.76
+10564,2024-12-21,South,Online,Coffee Maker,Home,154.6,3,0.15,84.59,394.23,253.78,140.45
+11592,2024-12-21,North,Online,Laptop,Electronics,899.38,1,0.0,618.06,899.38,618.06,281.32
+10568,2024-12-23,West,Retail,Laptop,Electronics,1156.74,1,0.0,707.78,1156.74,707.78,448.96
+10082,2024-12-23,South,Retail,Office Chair,Furniture,150.39,1,0.05,93.23,142.87,93.23,49.64
+11414,2024-12-23,North,Partner,Backpack,Accessories,75.27,2,0.0,41.22,150.54,82.44,68.1
+10362,2024-12-24,West,Partner,Smartphone,Electronics,655.02,1,0.05,438.34,622.27,438.34,183.93
+11496,2024-12-25,West,Retail,Coffee Maker,Home,121.81,1,0.0,73.11,121.81,73.11,48.7
+11406,2024-12-25,West,Partner,Headphones,Accessories,95.57,2,0.05,49.04,181.58,98.08,83.5
+10536,2024-12-26,South,Online,Smartphone,Electronics,657.0,2,0.0,500.75,1314.0,1001.51,312.49
+10861,2024-12-26,South,Retail,Blender,Home,33.96,1,0.15,23.21,28.87,23.21,5.66
+10589,2024-12-26,North,Online,Smartphone,Electronics,816.68,4,0.0,434.93,3266.72,1739.71,1527.01
+10566,2024-12-27,East,Online,Blender,Home,30.62,2,0.05,17.96,58.18,35.92,22.26
+11536,2024-12-27,North,Online,Office Chair,Furniture,156.11,1,0.0,107.84,156.11,107.84,48.27
+10408,2024-12-27,North,Online,Notebook,Stationery,2.81,3,0.0,1.57,8.43,4.7,3.73
+11030,2024-12-28,North,Retail,Office Chair,Furniture,206.29,1,0.0,153.09,206.29,153.09,53.2
+10061,2024-12-28,East,Online,Coffee Maker,Home,127.99,1,0.0,67.33,127.99,67.33,60.66
+11396,2024-12-28,East,Online,Smartphone,Electronics,739.11,1,0.2,429.43,591.29,429.43,161.86
+10762,2024-12-28,West,Online,Smartphone,Electronics,690.99,1,0.0,476.48,690.99,476.48,214.51
+10427,2024-12-29,East,Online,Headphones,Accessories,130.31,1,0.0,70.66,130.31,70.66,59.65
+11110,2024-12-29,West,Retail,Smartphone,Electronics,725.13,1,0.05,402.34,688.87,402.34,286.53
+10905,2024-12-29,East,Retail,Backpack,Accessories,32.03,1,0.0,17.79,32.03,17.79,14.24
+11015,2024-12-29,South,Online,Headphones,Accessories,37.5,2,0.0,25.57,75.0,51.15,23.85
+11302,2024-12-29,South,Online,Desk,Furniture,222.7,1,0.05,150.06,211.56,150.06,61.5
+10181,2024-12-29,South,Retail,Notebook,Stationery,6.8,2,0.0,4.45,13.6,8.91,4.69
+11133,2024-12-30,East,Retail,Laptop,Electronics,1029.08,2,0.0,660.69,2058.16,1321.39,736.77
+11316,2024-12-30,North,Online,Blender,Home,65.7,3,0.1,43.17,177.39,129.52,47.87
+11582,2025-01-01,East,Online,Headphones,Accessories,111.84,1,0.1,73.46,100.66,73.46,27.2
+10817,2025-01-03,West,Online,Notebook,Stationery,4.65,1,0.0,3.05,4.65,3.05,1.6
+11041,2025-01-04,North,Online,Laptop,Electronics,1200.49,1,0.0,792.28,1200.49,792.28,408.21
+10354,2025-01-04,West,Online,Coffee Maker,Home,171.18,1,0.0,108.61,171.18,108.61,62.57
+10584,2025-01-04,North,Retail,Office Chair,Furniture,230.75,2,0.0,131.15,461.5,262.3,199.2
+11369,2025-01-04,East,Online,Smartphone,Electronics,626.31,2,0.0,372.32,1252.62,744.64,507.98
+10832,2025-01-04,South,Retail,Desk,Furniture,110.8,3,0.1,70.26,299.16,210.78,88.38
+10276,2025-01-04,North,Retail,Office Chair,Furniture,255.13,1,0.0,159.89,255.13,159.89,95.24
+11466,2025-01-04,East,Online,Blender,Home,91.49,3,0.0,59.5,274.47,178.5,95.97
+10161,2025-01-05,East,Online,Smartphone,Electronics,697.07,2,0.05,442.62,1324.43,885.24,439.19
+11134,2025-01-05,East,Retail,Blender,Home,118.44,2,0.0,62.87,236.88,125.74,111.14
+10003,2025-01-05,North,Retail,Notebook,Stationery,6.63,1,0.1,3.61,5.97,3.61,2.36
+11492,2025-01-05,West,Online,Notebook,Stationery,5.52,1,0.0,3.53,5.52,3.53,1.99
+11491,2025-01-05,North,Retail,Laptop,Electronics,1220.13,1,0.0,868.59,1220.13,868.59,351.54
+11226,2025-01-06,South,Online,Notebook,Stationery,3.77,1,0.0,2.91,3.77,2.91,0.86
+11163,2025-01-06,North,Online,Notebook,Stationery,6.82,1,0.15,4.35,5.8,4.35,1.45
+10497,2025-01-07,East,Retail,Office Chair,Furniture,229.63,1,0.0,115.41,229.63,115.41,114.22
+10467,2025-01-07,West,Retail,Coffee Maker,Home,69.35,2,0.0,49.48,138.7,98.96,39.74
+11252,2025-01-07,West,Online,Smartphone,Electronics,530.61,1,0.1,315.43,477.55,315.43,162.12
+11221,2025-01-07,South,Online,Laptop,Electronics,1014.11,2,0.0,591.58,2028.22,1183.16,845.06
+10978,2025-01-08,North,Online,Office Chair,Furniture,96.53,3,0.15,46.44,246.15,139.31,106.84
+11208,2025-01-08,West,Retail,Office Chair,Furniture,115.05,1,0.1,75.83,103.55,75.83,27.72
+11424,2025-01-09,South,Online,Headphones,Accessories,73.03,1,0.0,53.14,73.03,53.14,19.89
+10512,2025-01-09,North,Online,Notebook,Stationery,6.87,1,0.1,3.86,6.18,3.86,2.32
+10679,2025-01-09,South,Online,Smartphone,Electronics,712.87,2,0.0,527.99,1425.74,1055.98,369.76
+10070,2025-01-09,East,Online,Office Chair,Furniture,160.44,1,0.0,78.55,160.44,78.55,81.89
+10050,2025-01-10,North,Online,Smartphone,Electronics,576.54,1,0.05,324.31,547.71,324.31,223.4
+11171,2025-01-10,South,Online,Office Chair,Furniture,249.14,1,0.0,170.38,249.14,170.38,78.76
+11339,2025-01-11,North,Online,Notebook,Stationery,7.7,2,0.1,5.93,13.86,11.87,1.99
+11145,2025-01-11,East,Online,Office Chair,Furniture,201.05,1,0.0,126.85,201.05,126.85,74.2
+10068,2025-01-12,South,Online,Headphones,Accessories,135.06,2,0.0,100.69,270.12,201.38,68.74
+11259,2025-01-12,East,Partner,Desk,Furniture,194.58,1,0.0,113.84,194.58,113.84,80.74
+11559,2025-01-12,South,Retail,Coffee Maker,Home,107.42,1,0.0,81.8,107.42,81.8,25.62
+10134,2025-01-13,West,Retail,Headphones,Accessories,48.01,1,0.0,34.46,48.01,34.46,13.55
+10508,2025-01-13,West,Online,Notebook,Stationery,4.84,1,0.0,3.77,4.84,3.77,1.07
+10305,2025-01-13,West,Retail,Notebook,Stationery,2.93,1,0.0,2.18,2.93,2.18,0.75
+10757,2025-01-13,North,Online,Headphones,Accessories,135.47,1,0.0,83.11,135.47,83.11,52.36
+10289,2025-01-14,North,Online,Desk,Furniture,226.49,1,0.15,127.4,192.52,127.4,65.12
+10180,2025-01-14,East,Online,Blender,Home,82.38,1,0.0,59.75,82.38,59.75,22.63
+10108,2025-01-15,South,Retail,Headphones,Accessories,73.73,1,0.0,39.75,73.73,39.75,33.98
+10804,2025-01-15,East,Retail,Coffee Maker,Home,163.53,2,0.0,104.39,327.06,208.78,118.28
+10459,2025-01-15,East,Online,Notebook,Stationery,5.12,2,0.0,2.56,10.24,5.13,5.11
+10587,2025-01-15,East,Online,Smartphone,Electronics,690.59,2,0.0,436.35,1381.18,872.69,508.49
+10129,2025-01-15,South,Online,Smartphone,Electronics,596.63,1,0.0,344.89,596.63,344.89,251.74
+10291,2025-01-17,East,Retail,Notebook,Stationery,4.04,2,0.0,2.06,8.08,4.13,3.95
+10002,2025-01-17,South,Retail,Office Chair,Furniture,253.97,1,0.0,154.86,253.97,154.86,99.11
+11044,2025-01-17,North,Online,Coffee Maker,Home,158.61,2,0.0,77.98,317.22,155.97,161.25
+10460,2025-01-17,South,Retail,Coffee Maker,Home,165.48,2,0.15,95.01,281.32,190.03,91.29
+11269,2025-01-18,North,Online,Desk,Furniture,166.47,2,0.15,98.92,283.0,197.85,85.15
+11401,2025-01-18,South,Online,Office Chair,Furniture,212.52,2,0.0,104.35,425.04,208.69,216.35
+11515,2025-01-18,South,Partner,Notebook,Stationery,6.19,1,0.1,4.59,5.57,4.59,0.98
+10636,2025-01-18,East,Online,Smartphone,Electronics,557.06,2,0.0,298.93,1114.12,597.86,516.26
+10919,2025-01-19,East,Online,Headphones,Accessories,70.44,1,0.15,46.16,59.87,46.16,13.71
+11169,2025-01-19,East,Online,Notebook,Stationery,3.56,1,0.0,2.49,3.56,2.49,1.07
+10490,2025-01-19,North,Online,Desk,Furniture,225.73,1,0.05,166.97,214.44,166.97,47.47
+10708,2025-01-20,West,Online,Notebook,Stationery,3.62,1,0.0,2.7,3.62,2.7,0.92
+10506,2025-01-20,East,Online,Notebook,Stationery,3.64,1,0.0,2.04,3.64,2.04,1.6
+10030,2025-01-20,South,Online,Blender,Home,87.46,1,0.05,53.72,83.09,53.72,29.37
+11563,2025-01-21,South,Online,Notebook,Stationery,7.48,1,0.0,4.22,7.48,4.22,3.26
+11266,2025-01-21,South,Online,Notebook,Stationery,4.78,1,0.0,2.67,4.78,2.67,2.11
+10970,2025-01-21,South,Online,Smartphone,Electronics,713.28,2,0.0,530.17,1426.56,1060.35,366.21
+10080,2025-01-21,South,Online,Notebook,Stationery,4.34,1,0.2,2.33,3.47,2.33,1.14
+11037,2025-01-22,East,Retail,Headphones,Accessories,93.18,2,0.2,57.46,149.09,114.93,34.16
+10765,2025-01-22,East,Retail,Backpack,Accessories,38.89,2,0.05,21.73,73.89,43.46,30.43
+10546,2025-01-22,East,Retail,Office Chair,Furniture,163.68,1,0.05,107.27,155.5,107.27,48.23
+11102,2025-01-22,South,Partner,Headphones,Accessories,76.76,1,0.0,58.97,76.76,58.97,17.79
+11465,2025-01-24,North,Online,Coffee Maker,Home,148.06,1,0.0,97.79,148.06,97.79,50.27
+10373,2025-01-24,East,Online,Headphones,Accessories,78.44,1,0.0,48.0,78.44,48.0,30.44
+10865,2025-01-25,West,Retail,Smartphone,Electronics,712.14,1,0.0,495.49,712.14,495.49,216.65
+11245,2025-01-25,East,Online,Headphones,Accessories,55.48,1,0.0,36.55,55.48,36.55,18.93
+11408,2025-01-25,East,Online,Laptop,Electronics,1099.51,2,0.0,683.22,2199.02,1366.44,832.58
+10469,2025-01-25,East,Online,Smartphone,Electronics,800.01,1,0.0,396.55,800.01,396.55,403.46
+10274,2025-01-25,West,Online,Coffee Maker,Home,92.95,1,0.15,60.31,79.01,60.31,18.7
+10428,2025-01-25,North,Online,Notebook,Stationery,7.16,1,0.0,3.97,7.16,3.97,3.19
+10438,2025-01-25,East,Online,Desk,Furniture,186.93,1,0.0,138.67,186.93,138.67,48.26
+11291,2025-01-26,East,Retail,Office Chair,Furniture,99.15,1,0.1,53.55,89.24,53.55,35.69
+10151,2025-01-26,South,Online,Notebook,Stationery,2.2,2,0.15,1.6,3.74,3.21,0.53
+10352,2025-01-26,West,Retail,Smartphone,Electronics,582.51,2,0.0,407.91,1165.02,815.82,349.2
+10742,2025-01-26,South,Online,Smartphone,Electronics,607.1,1,0.0,382.86,607.1,382.86,224.24
+10828,2025-01-27,East,Online,Headphones,Accessories,47.4,3,0.0,32.57,142.2,97.71,44.49
+10400,2025-01-27,South,Online,Office Chair,Furniture,130.41,1,0.0,80.33,130.41,80.33,50.08
+10884,2025-01-27,East,Online,Office Chair,Furniture,192.32,3,0.0,122.73,576.96,368.18,208.78
+10426,2025-01-27,East,Online,Notebook,Stationery,3.5,1,0.0,2.18,3.5,2.18,1.32
+10399,2025-01-28,North,Online,Office Chair,Furniture,258.38,4,0.2,156.82,826.82,627.27,199.55
+11053,2025-01-28,West,Online,Headphones,Accessories,78.15,2,0.15,60.5,132.86,120.99,11.87
+11507,2025-01-28,East,Retail,Blender,Home,117.21,2,0.0,67.14,234.42,134.28,100.14
+11415,2025-01-29,North,Online,Smartphone,Electronics,712.33,2,0.05,519.18,1353.43,1038.35,315.08
+11230,2025-01-29,East,Retail,Laptop,Electronics,969.25,1,0.0,732.42,969.25,732.42,236.83
+10102,2025-01-29,West,Online,Blender,Home,94.63,1,0.0,48.38,94.63,48.38,46.25
+10037,2025-01-29,West,Online,Smartphone,Electronics,754.17,1,0.0,502.21,754.17,502.21,251.96
+11313,2025-01-29,East,Retail,Coffee Maker,Home,47.61,1,0.0,36.78,47.61,36.78,10.83
+11510,2025-01-29,South,Online,Blender,Home,60.21,1,0.05,42.62,57.2,42.62,14.58
+11390,2025-01-30,West,Retail,Laptop,Electronics,1201.08,1,0.0,674.81,1201.08,674.81,526.27
+10751,2025-01-30,South,Partner,Headphones,Accessories,93.05,1,0.1,67.98,83.75,67.98,15.77
+11591,2025-01-31,North,Retail,Smartphone,Electronics,580.75,1,0.05,283.23,551.71,283.23,268.48
+10880,2025-01-31,East,Online,Coffee Maker,Home,75.57,1,0.0,43.72,75.57,43.72,31.85
+11488,2025-01-31,West,Retail,Office Chair,Furniture,93.26,1,0.15,56.9,79.27,56.9,22.37
+10969,2025-02-01,North,Retail,Desk,Furniture,245.51,1,0.05,172.15,233.23,172.15,61.08
+10451,2025-02-01,North,Online,Laptop,Electronics,1038.71,2,0.2,607.74,1661.94,1215.48,446.46
+10077,2025-02-01,West,Online,Headphones,Accessories,137.69,1,0.0,68.23,137.69,68.23,69.46
+10330,2025-02-02,East,Online,Headphones,Accessories,68.84,1,0.1,38.34,61.96,38.34,23.62
+10881,2025-02-02,West,Partner,Office Chair,Furniture,100.69,2,0.0,72.55,201.38,145.1,56.28
+11019,2025-02-02,South,Online,Laptop,Electronics,999.21,2,0.0,713.24,1998.42,1426.48,571.94
+11103,2025-02-02,West,Retail,Notebook,Stationery,6.01,1,0.0,3.0,6.01,3.0,3.01
+10063,2025-02-02,South,Partner,Desk,Furniture,278.62,1,0.0,152.09,278.62,152.09,126.53
+10004,2025-02-02,West,Online,Blender,Home,119.47,1,0.0,75.94,119.47,75.94,43.53
+10554,2025-02-02,South,Retail,Backpack,Accessories,89.43,1,0.0,47.24,89.43,47.24,42.19
+10078,2025-02-03,East,Partner,Coffee Maker,Home,113.05,1,0.0,85.81,113.05,85.81,27.24
+10477,2025-02-03,South,Online,Office Chair,Furniture,115.33,1,0.0,83.89,115.33,83.89,31.44
+11388,2025-02-03,East,Online,Headphones,Accessories,97.45,1,0.0,75.18,97.45,75.18,22.27
+10311,2025-02-03,West,Retail,Office Chair,Furniture,166.69,2,0.0,94.42,333.38,188.85,144.53
+10023,2025-02-05,West,Online,Backpack,Accessories,77.48,1,0.1,54.53,69.73,54.53,15.2
+10976,2025-02-05,West,Online,Coffee Maker,Home,77.39,1,0.0,51.15,77.39,51.15,26.24
+10938,2025-02-05,North,Online,Smartphone,Electronics,659.51,1,0.05,337.35,626.53,337.35,289.18
+10487,2025-02-05,North,Online,Office Chair,Furniture,163.31,1,0.05,90.41,155.14,90.41,64.73
+10687,2025-02-06,West,Online,Office Chair,Furniture,230.46,4,0.0,117.56,921.84,470.23,451.61
+10841,2025-02-06,East,Online,Laptop,Electronics,859.48,2,0.0,499.97,1718.96,999.94,719.02
+11154,2025-02-06,West,Online,Smartphone,Electronics,670.19,1,0.0,395.21,670.19,395.21,274.98
+11058,2025-02-07,West,Online,Smartphone,Electronics,725.15,1,0.0,402.66,725.15,402.66,322.49
+10104,2025-02-07,South,Online,Backpack,Accessories,91.32,1,0.0,56.23,91.32,56.23,35.09
+10223,2025-02-07,South,Online,Coffee Maker,Home,121.02,2,0.05,75.22,229.94,150.44,79.5
+10729,2025-02-07,East,Partner,Office Chair,Furniture,195.55,2,0.0,96.61,391.1,193.22,197.88
+11463,2025-02-08,East,Online,Smartphone,Electronics,494.55,1,0.05,352.49,469.82,352.49,117.33
+10740,2025-02-08,North,Online,Office Chair,Furniture,259.0,2,0.15,146.43,440.3,292.86,147.44
+10617,2025-02-08,East,Retail,Blender,Home,119.23,1,0.0,60.54,119.23,60.54,58.69
+10715,2025-02-09,West,Online,Notebook,Stationery,4.95,1,0.0,2.61,4.95,2.61,2.34
+10842,2025-02-09,East,Partner,Notebook,Stationery,2.43,1,0.15,1.39,2.07,1.39,0.68
+10677,2025-02-09,South,Online,Backpack,Accessories,88.83,2,0.0,62.54,177.66,125.08,52.58
+10083,2025-02-09,North,Online,Notebook,Stationery,5.43,1,0.15,3.16,4.62,3.16,1.46
+11549,2025-02-09,West,Online,Headphones,Accessories,74.63,1,0.0,41.24,74.63,41.24,33.39
+11120,2025-02-10,South,Online,Notebook,Stationery,3.23,1,0.15,2.39,2.75,2.39,0.36
+10318,2025-02-10,South,Retail,Blender,Home,30.06,2,0.05,19.54,57.11,39.09,18.02
+10383,2025-02-10,South,Online,Notebook,Stationery,5.1,1,0.15,3.4,4.33,3.4,0.93
+10599,2025-02-10,North,Retail,Backpack,Accessories,87.64,1,0.0,59.99,87.64,59.99,27.65
+10596,2025-02-10,North,Online,Headphones,Accessories,110.23,2,0.1,54.46,198.41,108.92,89.49
+10150,2025-02-12,West,Online,Laptop,Electronics,1203.47,1,0.0,654.11,1203.47,654.11,549.36
+10306,2025-02-12,North,Retail,Office Chair,Furniture,185.63,1,0.2,102.91,148.5,102.91,45.59
+11480,2025-02-12,North,Retail,Office Chair,Furniture,157.6,1,0.0,96.16,157.6,96.16,61.44
+10807,2025-02-12,South,Partner,Blender,Home,75.62,1,0.1,49.34,68.06,49.34,18.72
+10600,2025-02-13,West,Online,Coffee Maker,Home,163.85,4,0.0,95.58,655.4,382.33,273.07
+10985,2025-02-13,East,Retail,Smartphone,Electronics,663.01,2,0.2,486.97,1060.82,973.94,86.88
+10872,2025-02-14,South,Retail,Laptop,Electronics,855.99,2,0.0,602.11,1711.98,1204.22,507.76
+10212,2025-02-14,East,Online,Coffee Maker,Home,100.41,1,0.15,49.29,85.35,49.29,36.06
+10504,2025-02-15,East,Retail,Desk,Furniture,212.72,1,0.0,162.0,212.72,162.0,50.72
+11020,2025-02-15,West,Online,Office Chair,Furniture,136.53,1,0.0,99.57,136.53,99.57,36.96
+11332,2025-02-15,East,Online,Desk,Furniture,185.0,1,0.1,96.4,166.5,96.4,70.1
+10530,2025-02-16,South,Retail,Headphones,Accessories,35.64,1,0.0,17.98,35.64,17.98,17.66
+11091,2025-02-16,East,Retail,Headphones,Accessories,64.67,1,0.0,37.6,64.67,37.6,27.07
+10031,2025-02-17,North,Retail,Blender,Home,45.27,2,0.0,23.81,90.54,47.63,42.91
+10820,2025-02-17,North,Online,Headphones,Accessories,50.7,1,0.05,34.24,48.16,34.24,13.92
+10523,2025-02-17,East,Online,Smartphone,Electronics,587.3,1,0.15,413.33,499.2,413.33,85.87
+10635,2025-02-17,North,Retail,Laptop,Electronics,1071.1,2,0.0,566.64,2142.2,1133.28,1008.92
+10384,2025-02-18,East,Online,Office Chair,Furniture,112.69,1,0.0,81.48,112.69,81.48,31.21
+10206,2025-02-18,East,Retail,Smartphone,Electronics,538.78,1,0.0,392.19,538.78,392.19,146.59
+10095,2025-02-18,South,Online,Headphones,Accessories,127.34,1,0.15,77.4,108.24,77.4,30.84
+10359,2025-02-18,South,Retail,Desk,Furniture,181.2,1,0.0,114.78,181.2,114.78,66.42
+11410,2025-02-19,East,Partner,Blender,Home,105.55,1,0.0,62.95,105.55,62.95,42.6
+11204,2025-02-19,East,Retail,Blender,Home,99.82,2,0.0,59.89,199.64,119.79,79.85
+10647,2025-02-19,North,Online,Laptop,Electronics,933.84,1,0.0,728.08,933.84,728.08,205.76
+10606,2025-02-20,East,Retail,Notebook,Stationery,6.8,3,0.0,4.09,20.4,12.27,8.13
+10342,2025-02-21,South,Online,Backpack,Accessories,49.5,1,0.0,36.52,49.5,36.52,12.98
+10128,2025-02-21,South,Online,Smartphone,Electronics,641.06,2,0.05,439.49,1218.01,878.98,339.03
+11212,2025-02-21,East,Retail,Notebook,Stationery,2.54,1,0.0,1.71,2.54,1.71,0.83
+10899,2025-02-21,West,Online,Smartphone,Electronics,452.07,1,0.0,251.94,452.07,251.94,200.13
+10868,2025-02-21,East,Partner,Notebook,Stationery,4.96,1,0.1,3.53,4.46,3.53,0.93
+10137,2025-02-21,North,Online,Backpack,Accessories,41.57,1,0.0,31.57,41.57,31.57,10.0
+10091,2025-02-22,South,Partner,Smartphone,Electronics,808.2,1,0.05,583.46,767.79,583.46,184.33
+11283,2025-02-22,North,Partner,Office Chair,Furniture,209.58,1,0.0,125.26,209.58,125.26,84.32
+10733,2025-02-22,East,Retail,Smartphone,Electronics,835.35,3,0.0,495.27,2506.05,1485.8,1020.25
+10096,2025-02-23,South,Retail,Coffee Maker,Home,101.4,1,0.0,53.29,101.4,53.29,48.11
+11050,2025-02-23,West,Online,Headphones,Accessories,75.26,2,0.0,37.8,150.52,75.59,74.93
+11569,2025-02-24,East,Online,Office Chair,Furniture,147.6,2,0.0,108.62,295.2,217.23,77.97
+10126,2025-02-24,South,Retail,Desk,Furniture,122.95,2,0.0,79.24,245.9,158.48,87.42
+10871,2025-02-24,East,Retail,Blender,Home,89.24,3,0.0,43.73,267.72,131.19,136.53
+10939,2025-02-24,North,Online,Notebook,Stationery,3.15,4,0.0,1.72,12.6,6.89,5.71
+11418,2025-02-24,South,Partner,Desk,Furniture,325.41,2,0.05,183.98,618.28,367.95,250.33
+10412,2025-02-24,South,Retail,Coffee Maker,Home,82.98,2,0.15,44.34,141.07,88.67,52.4
+11076,2025-02-24,West,Retail,Headphones,Accessories,76.29,2,0.15,52.71,129.69,105.42,24.27
+10766,2025-02-24,North,Online,Laptop,Electronics,1185.92,1,0.0,742.14,1185.92,742.14,443.78
+10688,2025-02-25,East,Online,Backpack,Accessories,29.8,2,0.1,22.19,53.64,44.37,9.27
+11310,2025-02-26,East,Partner,Backpack,Accessories,62.28,1,0.0,33.24,62.28,33.24,29.04
+10521,2025-02-26,North,Online,Notebook,Stationery,4.68,1,0.0,3.11,4.68,3.11,1.57
+10484,2025-02-26,East,Online,Headphones,Accessories,124.9,2,0.0,77.0,249.8,154.0,95.8
+10648,2025-02-27,West,Online,Desk,Furniture,190.58,1,0.1,143.65,171.52,143.65,27.87
+11301,2025-02-27,East,Retail,Smartphone,Electronics,715.9,2,0.0,443.27,1431.8,886.54,545.26
+11286,2025-02-27,North,Partner,Backpack,Accessories,40.88,1,0.0,26.63,40.88,26.63,14.25
+11081,2025-02-27,North,Retail,Headphones,Accessories,57.1,1,0.0,37.3,57.1,37.3,19.8
+11073,2025-02-28,South,Online,Office Chair,Furniture,185.99,1,0.0,137.6,185.99,137.6,48.39
+10685,2025-02-28,North,Retail,Coffee Maker,Home,117.4,1,0.15,85.91,99.79,85.91,13.88
+10338,2025-02-28,West,Retail,Blender,Home,70.58,2,0.05,45.75,134.1,91.5,42.6
+11525,2025-03-01,South,Online,Blender,Home,99.56,1,0.0,72.74,99.56,72.74,26.82
+11599,2025-03-02,East,Retail,Notebook,Stationery,3.32,1,0.0,1.71,3.32,1.71,1.61
+10894,2025-03-02,East,Online,Laptop,Electronics,995.9,3,0.0,530.53,2987.7,1591.58,1396.12
+11293,2025-03-02,West,Retail,Desk,Furniture,189.81,2,0.05,108.79,360.64,217.59,143.05
+10819,2025-03-02,North,Retail,Coffee Maker,Home,124.48,1,0.1,65.29,112.03,65.29,46.74
+10626,2025-03-02,West,Partner,Office Chair,Furniture,245.25,2,0.05,165.61,465.97,331.23,134.74
+10833,2025-03-03,North,Online,Office Chair,Furniture,163.92,2,0.2,95.85,262.27,191.7,70.57
+10741,2025-03-03,East,Online,Laptop,Electronics,1031.33,1,0.1,803.41,928.2,803.41,124.79
+11182,2025-03-04,East,Online,Smartphone,Electronics,762.44,1,0.0,554.72,762.44,554.72,207.72
+11022,2025-03-04,East,Online,Blender,Home,40.61,1,0.0,21.35,40.61,21.35,19.26
+10669,2025-03-04,South,Retail,Headphones,Accessories,80.06,2,0.0,55.5,160.12,111.01,49.11
+10260,2025-03-04,West,Online,Coffee Maker,Home,70.13,1,0.0,34.86,70.13,34.86,35.27
+10425,2025-03-05,South,Online,Coffee Maker,Home,109.05,1,0.0,74.93,109.05,74.93,34.12
+10328,2025-03-05,West,Online,Desk,Furniture,318.04,1,0.2,230.15,254.43,230.15,24.28
+11533,2025-03-05,North,Online,Desk,Furniture,230.31,3,0.0,149.18,690.93,447.55,243.38
+11254,2025-03-06,West,Online,Coffee Maker,Home,128.51,2,0.0,98.7,257.02,197.39,59.63
+10118,2025-03-06,East,Online,Blender,Home,72.45,1,0.0,41.83,72.45,41.83,30.62
+10738,2025-03-07,North,Online,Headphones,Accessories,48.96,2,0.1,36.3,88.13,72.59,15.54
+11585,2025-03-07,South,Online,Coffee Maker,Home,162.12,1,0.1,99.71,145.91,99.71,46.2
+10302,2025-03-07,East,Online,Smartphone,Electronics,656.36,1,0.0,334.9,656.36,334.9,321.46
+11029,2025-03-07,North,Partner,Blender,Home,118.0,2,0.0,59.92,236.0,119.84,116.16
+11395,2025-03-08,North,Online,Notebook,Stationery,2.09,1,0.0,1.39,2.09,1.39,0.7
+10315,2025-03-08,North,Online,Headphones,Accessories,108.5,2,0.05,76.37,206.15,152.73,53.42
+11247,2025-03-09,South,Online,Coffee Maker,Home,155.5,2,0.0,90.3,311.0,180.59,130.41
+11048,2025-03-09,South,Online,Notebook,Stationery,3.98,2,0.0,2.34,7.96,4.68,3.28
+11561,2025-03-11,East,Online,Backpack,Accessories,40.27,1,0.2,27.66,32.22,27.66,4.56
+10424,2025-03-11,North,Online,Laptop,Electronics,1133.71,2,0.0,724.09,2267.42,1448.18,819.24
+10226,2025-03-11,East,Online,Backpack,Accessories,35.75,2,0.0,26.96,71.5,53.91,17.59
+10720,2025-03-11,West,Online,Backpack,Accessories,43.49,1,0.1,31.02,39.14,31.02,8.12
+11512,2025-03-12,North,Retail,Smartphone,Electronics,567.98,1,0.0,290.11,567.98,290.11,277.87
+11021,2025-03-12,West,Online,Notebook,Stationery,3.18,2,0.0,1.91,6.36,3.81,2.55
+10552,2025-03-13,North,Online,Smartphone,Electronics,801.77,1,0.05,436.98,761.68,436.98,324.7
+10321,2025-03-13,East,Online,Backpack,Accessories,61.46,2,0.0,36.52,122.92,73.05,49.87
+10724,2025-03-13,North,Retail,Backpack,Accessories,70.89,2,0.05,46.67,134.69,93.33,41.36
+10812,2025-03-13,South,Retail,Laptop,Electronics,949.81,2,0.15,702.74,1614.68,1405.48,209.2
+11214,2025-03-14,East,Online,Headphones,Accessories,53.06,1,0.05,40.39,50.41,40.39,10.02
+10254,2025-03-14,South,Online,Headphones,Accessories,63.41,1,0.0,36.76,63.41,36.76,26.65
+10183,2025-03-14,West,Online,Desk,Furniture,311.42,4,0.1,164.98,1121.11,659.91,461.2
+11303,2025-03-15,South,Retail,Blender,Home,52.21,3,0.1,33.85,140.97,101.55,39.42
+10361,2025-03-15,North,Retail,Backpack,Accessories,94.17,1,0.0,52.23,94.17,52.23,41.94
+10826,2025-03-15,North,Online,Laptop,Electronics,1195.4,1,0.1,601.96,1075.86,601.96,473.9
+11127,2025-03-15,North,Partner,Desk,Furniture,265.17,1,0.15,140.06,225.39,140.06,85.33
+10473,2025-03-16,West,Online,Smartphone,Electronics,782.54,1,0.0,508.81,782.54,508.81,273.73
+11109,2025-03-16,East,Retail,Backpack,Accessories,52.39,1,0.0,27.32,52.39,27.32,25.07
+10904,2025-03-17,South,Online,Office Chair,Furniture,94.58,1,0.2,73.2,75.66,73.2,2.46
+10313,2025-03-17,West,Partner,Headphones,Accessories,92.99,1,0.0,56.7,92.99,56.7,36.29
+10043,2025-03-17,North,Online,Blender,Home,75.02,2,0.1,58.49,135.04,116.98,18.06
+11036,2025-03-17,East,Online,Coffee Maker,Home,62.95,1,0.05,34.95,59.8,34.95,24.85
+10290,2025-03-17,South,Online,Smartphone,Electronics,596.68,1,0.0,444.49,596.68,444.49,152.19
+11464,2025-03-18,North,Retail,Headphones,Accessories,89.78,1,0.05,59.64,85.29,59.64,25.65
+10810,2025-03-18,East,Retail,Backpack,Accessories,71.71,2,0.0,49.99,143.42,99.98,43.44
+10154,2025-03-18,South,Retail,Desk,Furniture,236.18,1,0.0,153.28,236.18,153.28,82.9
+10885,2025-03-18,West,Online,Smartphone,Electronics,641.06,2,0.05,463.19,1218.01,926.38,291.63
+10053,2025-03-18,East,Retail,Notebook,Stationery,7.42,1,0.0,4.01,7.42,4.01,3.41
+10639,2025-03-19,East,Online,Notebook,Stationery,7.57,1,0.0,4.64,7.57,4.64,2.93
+11481,2025-03-19,South,Retail,Office Chair,Furniture,255.61,1,0.1,172.21,230.05,172.21,57.84
+10698,2025-03-20,West,Retail,Coffee Maker,Home,107.77,2,0.0,75.58,215.54,151.15,64.39
+10406,2025-03-20,North,Online,Notebook,Stationery,5.07,1,0.0,3.26,5.07,3.26,1.81
+10518,2025-03-20,North,Online,Blender,Home,60.81,1,0.0,34.61,60.81,34.61,26.2
+11194,2025-03-21,South,Retail,Backpack,Accessories,52.48,1,0.0,26.79,52.48,26.79,25.69
+10526,2025-03-21,West,Online,Headphones,Accessories,55.65,1,0.0,34.77,55.65,34.77,20.88
+11063,2025-03-21,West,Partner,Headphones,Accessories,90.12,1,0.1,67.58,81.11,67.58,13.53
+10017,2025-03-21,West,Partner,Desk,Furniture,153.36,2,0.2,106.82,245.38,213.65,31.73
+10264,2025-03-21,South,Online,Smartphone,Electronics,451.75,1,0.15,251.71,383.99,251.71,132.28
+11419,2025-03-21,South,Retail,Notebook,Stationery,7.16,1,0.0,4.08,7.16,4.08,3.08
+10913,2025-03-21,North,Partner,Backpack,Accessories,46.25,1,0.1,28.61,41.62,28.61,13.01
+10312,2025-03-22,South,Online,Office Chair,Furniture,195.35,1,0.0,150.43,195.35,150.43,44.92
+10702,2025-03-22,East,Online,Headphones,Accessories,109.05,2,0.0,77.04,218.1,154.08,64.02
+11180,2025-03-22,West,Retail,Smartphone,Electronics,500.93,2,0.1,341.47,901.67,682.95,218.72
+10540,2025-03-23,North,Online,Notebook,Stationery,3.99,2,0.0,1.93,7.98,3.86,4.12
+10270,2025-03-23,South,Online,Laptop,Electronics,908.57,2,0.0,439.66,1817.14,879.31,937.83
+10166,2025-03-23,South,Partner,Headphones,Accessories,115.6,2,0.05,59.8,219.64,119.61,100.03
+10582,2025-03-23,South,Retail,Desk,Furniture,290.3,1,0.15,164.64,246.75,164.64,82.11
+11553,2025-03-23,South,Retail,Headphones,Accessories,103.99,2,0.15,80.0,176.78,160.0,16.78
+11404,2025-03-24,South,Partner,Headphones,Accessories,62.87,2,0.0,35.55,125.74,71.1,54.64
+10629,2025-03-26,North,Retail,Desk,Furniture,300.49,1,0.0,234.11,300.49,234.11,66.38
+10465,2025-03-26,East,Retail,Coffee Maker,Home,158.67,3,0.0,83.5,476.01,250.51,225.5
+10940,2025-03-26,South,Retail,Smartphone,Electronics,692.34,2,0.0,462.34,1384.68,924.68,460.0
+11489,2025-03-27,South,Retail,Notebook,Stationery,2.66,1,0.05,1.33,2.53,1.33,1.2
+10027,2025-03-27,South,Online,Office Chair,Furniture,113.97,4,0.15,86.23,387.5,344.9,42.6
+10610,2025-03-27,South,Online,Office Chair,Furniture,217.79,2,0.0,132.17,435.58,264.34,171.24
+10120,2025-03-27,South,Partner,Coffee Maker,Home,92.54,1,0.0,65.63,92.54,65.63,26.91
+10233,2025-03-27,East,Online,Backpack,Accessories,46.67,1,0.0,29.02,46.67,29.02,17.65
+11215,2025-03-29,West,Online,Headphones,Accessories,87.47,1,0.0,57.69,87.47,57.69,29.78
+10863,2025-03-30,South,Online,Notebook,Stationery,4.79,4,0.0,2.85,19.16,11.41,7.75
+10548,2025-03-30,North,Retail,Laptop,Electronics,1091.07,1,0.1,800.45,981.96,800.45,181.51
+11501,2025-03-30,South,Online,Blender,Home,95.79,2,0.1,68.73,172.42,137.45,34.97
+10205,2025-03-30,West,Retail,Laptop,Electronics,1242.3,2,0.0,678.29,2484.6,1356.59,1128.01
+11429,2025-03-30,West,Online,Notebook,Stationery,7.36,1,0.0,4.23,7.36,4.23,3.13
+10391,2025-03-30,North,Retail,Coffee Maker,Home,54.86,1,0.0,36.34,54.86,36.34,18.52
+10883,2025-03-31,West,Online,Backpack,Accessories,29.46,1,0.0,15.24,29.46,15.24,14.22
+10122,2025-03-31,East,Online,Coffee Maker,Home,73.21,1,0.0,46.08,73.21,46.08,27.13
+10611,2025-04-01,South,Online,Desk,Furniture,259.68,1,0.0,193.64,259.68,193.64,66.04
+10684,2025-04-01,North,Retail,Office Chair,Furniture,235.2,1,0.1,119.76,211.68,119.76,91.92
+10730,2025-04-01,North,Retail,Desk,Furniture,332.87,1,0.05,194.22,316.23,194.22,122.01
+10953,2025-04-01,West,Partner,Headphones,Accessories,77.26,1,0.0,41.08,77.26,41.08,36.18
+11544,2025-04-01,South,Online,Smartphone,Electronics,719.92,1,0.0,510.22,719.92,510.22,209.7
+10073,2025-04-01,West,Online,Notebook,Stationery,4.07,1,0.0,2.91,4.07,2.91,1.16
+11428,2025-04-02,West,Retail,Laptop,Electronics,1000.04,1,0.0,766.07,1000.04,766.07,233.97
+10917,2025-04-02,South,Online,Laptop,Electronics,1041.55,1,0.0,503.15,1041.55,503.15,538.4
+10148,2025-04-02,West,Retail,Desk,Furniture,134.32,1,0.1,79.92,120.89,79.92,40.97
+11028,2025-04-02,East,Online,Headphones,Accessories,61.74,1,0.0,29.71,61.74,29.71,32.03
+11170,2025-04-02,North,Retail,Laptop,Electronics,896.02,2,0.0,614.49,1792.04,1228.98,563.06
+11405,2025-04-03,West,Retail,Smartphone,Electronics,535.83,1,0.15,283.23,455.46,283.23,172.23
+10538,2025-04-03,North,Online,Smartphone,Electronics,715.96,2,0.0,430.04,1431.92,860.08,571.84
+11027,2025-04-04,South,Partner,Backpack,Accessories,33.43,1,0.0,21.72,33.43,21.72,11.71
+11438,2025-04-05,East,Online,Desk,Furniture,262.49,2,0.05,183.04,498.73,366.08,132.65
+11045,2025-04-05,East,Retail,Laptop,Electronics,1148.54,1,0.0,614.79,1148.54,614.79,533.75
+11097,2025-04-05,South,Retail,Smartphone,Electronics,700.2,1,0.0,418.42,700.2,418.42,281.78
+10443,2025-04-05,North,Online,Blender,Home,46.81,1,0.1,23.46,42.13,23.46,18.67
+11526,2025-04-05,East,Online,Smartphone,Electronics,575.16,1,0.05,306.94,546.4,306.94,239.46
+10796,2025-04-06,South,Online,Headphones,Accessories,127.52,1,0.2,88.13,102.02,88.13,13.89
+10784,2025-04-06,East,Online,Coffee Maker,Home,82.65,3,0.0,52.06,247.95,156.18,91.77
+11593,2025-04-06,West,Retail,Backpack,Accessories,41.12,2,0.0,20.17,82.24,40.35,41.89
+10188,2025-04-06,West,Online,Laptop,Electronics,992.11,1,0.0,696.7,992.11,696.7,295.41
+11065,2025-04-07,East,Retail,Headphones,Accessories,115.67,1,0.15,88.39,98.32,88.39,9.93
+10946,2025-04-07,East,Retail,Headphones,Accessories,125.3,3,0.0,69.14,375.9,207.43,168.47
+10036,2025-04-07,West,Online,Smartphone,Electronics,538.95,1,0.05,297.03,512.0,297.03,214.97
+10434,2025-04-08,North,Retail,Notebook,Stationery,3.05,1,0.0,2.2,3.05,2.2,0.85
+11113,2025-04-08,South,Retail,Coffee Maker,Home,176.6,2,0.0,104.45,353.2,208.9,144.3
+10132,2025-04-09,East,Retail,Backpack,Accessories,94.1,1,0.05,47.2,89.39,47.2,42.19
+10788,2025-04-09,West,Retail,Headphones,Accessories,125.85,1,0.0,67.37,125.85,67.37,58.48
+11206,2025-04-09,South,Online,Laptop,Electronics,875.68,1,0.0,569.54,875.68,569.54,306.14
+10974,2025-04-11,East,Online,Backpack,Accessories,40.66,3,0.1,29.51,109.78,88.52,21.26
+11297,2025-04-11,South,Online,Laptop,Electronics,1249.5,1,0.0,664.26,1249.5,664.26,585.24
+10681,2025-04-12,South,Online,Laptop,Electronics,1197.03,1,0.0,784.31,1197.03,784.31,412.72
+11054,2025-04-12,West,Retail,Smartphone,Electronics,821.91,1,0.05,491.73,780.81,491.73,289.08
+10615,2025-04-13,South,Retail,Headphones,Accessories,55.97,1,0.1,36.18,50.37,36.18,14.19
+10590,2025-04-13,North,Retail,Laptop,Electronics,1199.8,1,0.0,590.26,1199.8,590.26,609.54
+10581,2025-04-13,West,Online,Desk,Furniture,150.13,1,0.0,74.39,150.13,74.39,75.74
+11191,2025-04-14,East,Online,Office Chair,Furniture,91.45,2,0.0,63.77,182.9,127.54,55.36
+10727,2025-04-15,North,Online,Headphones,Accessories,92.34,1,0.05,52.88,87.72,52.88,34.84
+11360,2025-04-15,North,Online,Smartphone,Electronics,691.59,1,0.05,440.81,657.01,440.81,216.2
+11158,2025-04-15,East,Retail,Laptop,Electronics,975.65,4,0.0,615.92,3902.6,2463.68,1438.92
+10191,2025-04-15,South,Retail,Backpack,Accessories,31.52,2,0.0,22.36,63.04,44.72,18.32
+10493,2025-04-16,West,Retail,Coffee Maker,Home,45.22,2,0.0,31.83,90.44,63.65,26.79
+11112,2025-04-16,South,Online,Office Chair,Furniture,248.8,1,0.05,145.5,236.36,145.5,90.86
+11135,2025-04-17,West,Retail,Backpack,Accessories,90.27,2,0.0,62.63,180.54,125.25,55.29
+11235,2025-04-17,East,Online,Smartphone,Electronics,453.55,2,0.0,292.24,907.1,584.48,322.62
+10057,2025-04-18,North,Online,Office Chair,Furniture,170.75,1,0.0,84.14,170.75,84.14,86.61
+11128,2025-04-18,North,Retail,Blender,Home,73.62,1,0.0,57.01,73.62,57.01,16.61
+11167,2025-04-18,East,Online,Notebook,Stationery,5.96,2,0.0,3.59,11.92,7.19,4.73
+11298,2025-04-19,West,Retail,Smartphone,Electronics,646.5,3,0.0,410.13,1939.5,1230.4,709.1
+11540,2025-04-20,North,Retail,Office Chair,Furniture,146.04,1,0.0,101.27,146.04,101.27,44.77
+11362,2025-04-21,South,Retail,Headphones,Accessories,61.26,2,0.05,30.97,116.39,61.94,54.45
+10604,2025-04-22,North,Online,Blender,Home,56.36,1,0.0,36.54,56.36,36.54,19.82
+11222,2025-04-22,East,Online,Smartphone,Electronics,749.49,3,0.0,438.59,2248.47,1315.76,932.71
+10135,2025-04-22,South,Partner,Coffee Maker,Home,153.78,1,0.0,87.54,153.78,87.54,66.24
+11454,2025-04-22,North,Retail,Backpack,Accessories,93.2,1,0.1,59.44,83.88,59.44,24.44
+11556,2025-04-22,South,Online,Blender,Home,53.21,2,0.05,33.61,101.1,67.22,33.88
+10059,2025-04-22,West,Partner,Smartphone,Electronics,457.14,3,0.15,221.08,1165.71,663.24,502.47
+11240,2025-04-23,South,Online,Smartphone,Electronics,634.97,1,0.15,411.59,539.72,411.59,128.13
+11188,2025-04-23,West,Online,Backpack,Accessories,75.96,2,0.0,57.55,151.92,115.1,36.82
+10220,2025-04-24,North,Retail,Office Chair,Furniture,167.56,1,0.0,123.38,167.56,123.38,44.18
+10139,2025-04-25,East,Online,Notebook,Stationery,5.79,2,0.1,4.03,10.42,8.05,2.37
+10369,2025-04-25,East,Online,Headphones,Accessories,133.25,2,0.0,69.46,266.5,138.92,127.58
+10934,2025-04-25,North,Partner,Blender,Home,93.43,2,0.0,54.49,186.86,108.97,77.89
+10152,2025-04-26,South,Online,Notebook,Stationery,7.64,3,0.0,5.14,22.92,15.42,7.5
+11034,2025-04-26,South,Online,Backpack,Accessories,51.57,1,0.0,37.19,51.57,37.19,14.38
+10032,2025-04-27,West,Online,Backpack,Accessories,48.11,2,0.1,24.21,86.6,48.43,38.17
+10649,2025-04-29,North,Online,Blender,Home,67.09,2,0.0,45.55,134.18,91.1,43.08
+10208,2025-04-29,North,Online,Blender,Home,69.44,1,0.0,45.58,69.44,45.58,23.86
+10987,2025-04-29,North,Online,Headphones,Accessories,126.39,2,0.0,61.41,252.78,122.83,129.95
+10920,2025-04-29,North,Retail,Desk,Furniture,295.5,2,0.0,203.01,591.0,406.02,184.98
+11584,2025-04-30,East,Retail,Headphones,Accessories,51.46,1,0.1,26.16,46.31,26.16,20.15
+10966,2025-04-30,West,Retail,Office Chair,Furniture,134.34,1,0.0,94.24,134.34,94.24,40.1
+10900,2025-05-01,West,Retail,Desk,Furniture,293.29,2,0.05,175.22,557.25,350.43,206.82
+10106,2025-05-01,East,Retail,Blender,Home,60.51,2,0.0,46.29,121.02,92.57,28.45
+11107,2025-05-01,North,Partner,Smartphone,Electronics,820.16,1,0.05,485.42,779.15,485.42,293.73
+10292,2025-05-01,North,Online,Laptop,Electronics,1168.21,1,0.1,698.37,1051.39,698.37,353.02
+10419,2025-05-02,West,Online,Smartphone,Electronics,816.13,1,0.0,594.41,816.13,594.41,221.72
+11341,2025-05-04,West,Online,Smartphone,Electronics,739.64,1,0.15,377.42,628.69,377.42,251.27
+11596,2025-05-04,East,Online,Blender,Home,36.46,2,0.1,27.96,65.63,55.93,9.7
+10457,2025-05-04,North,Online,Backpack,Accessories,26.28,1,0.0,19.01,26.28,19.01,7.27
+10407,2025-05-04,South,Retail,Headphones,Accessories,67.9,2,0.0,49.33,135.8,98.65,37.15
+10935,2025-05-05,North,Retail,Notebook,Stationery,5.64,1,0.0,2.78,5.64,2.78,2.86
+10114,2025-05-05,South,Retail,Coffee Maker,Home,161.15,2,0.0,86.45,322.3,172.89,149.41
+10829,2025-05-06,East,Retail,Notebook,Stationery,5.7,2,0.05,3.65,10.83,7.29,3.54
+11149,2025-05-06,South,Retail,Desk,Furniture,293.82,2,0.0,223.16,587.64,446.32,141.32
+10818,2025-05-06,West,Online,Desk,Furniture,243.23,2,0.1,119.72,437.81,239.45,198.36
+10103,2025-05-06,North,Partner,Headphones,Accessories,126.62,1,0.15,64.11,107.63,64.11,43.52
+10317,2025-05-07,South,Retail,Headphones,Accessories,110.29,2,0.0,81.2,220.58,162.4,58.18
+10602,2025-05-07,South,Online,Blender,Home,34.69,3,0.0,17.41,104.07,52.24,51.83
+10171,2025-05-07,East,Online,Headphones,Accessories,127.14,3,0.0,96.57,381.42,289.71,91.71
+11095,2025-05-07,North,Online,Coffee Maker,Home,96.49,2,0.05,74.57,183.33,149.14,34.19
+10448,2025-05-09,West,Online,Coffee Maker,Home,128.09,1,0.15,67.49,108.88,67.49,41.39
+10356,2025-05-09,North,Partner,Desk,Furniture,325.34,3,0.0,212.69,976.02,638.07,337.95
+10813,2025-05-09,West,Online,Backpack,Accessories,94.42,1,0.0,46.61,94.42,46.61,47.81
+11508,2025-05-09,South,Retail,Office Chair,Furniture,223.64,4,0.0,128.9,894.56,515.6,378.96
+11422,2025-05-10,West,Online,Office Chair,Furniture,91.87,3,0.0,54.66,275.61,163.97,111.64
+10193,2025-05-10,West,Retail,Smartphone,Electronics,784.95,1,0.1,564.58,706.46,564.58,141.88
+11101,2025-05-10,South,Online,Laptop,Electronics,858.79,4,0.0,565.03,3435.16,2260.1,1175.06
+10926,2025-05-12,West,Retail,Headphones,Accessories,93.64,2,0.2,61.2,149.82,122.4,27.42
+11374,2025-05-12,North,Retail,Notebook,Stationery,7.1,3,0.0,3.86,21.3,11.58,9.72
+10916,2025-05-13,East,Online,Backpack,Accessories,58.59,1,0.1,41.64,52.73,41.64,11.09
+10792,2025-05-13,West,Partner,Office Chair,Furniture,252.3,2,0.0,173.24,504.6,346.48,158.12
+11484,2025-05-13,North,Retail,Smartphone,Electronics,714.2,2,0.0,354.01,1428.4,708.02,720.38
+11218,2025-05-13,South,Retail,Desk,Furniture,290.3,1,0.15,160.15,246.75,160.15,86.6
+10666,2025-05-14,East,Retail,Blender,Home,68.41,2,0.0,33.03,136.82,66.06,70.76
+10646,2025-05-14,East,Online,Notebook,Stationery,5.8,1,0.15,3.15,4.93,3.15,1.78
+10500,2025-05-15,South,Online,Desk,Furniture,158.61,4,0.0,84.78,634.44,339.14,295.3
+11106,2025-05-15,West,Online,Notebook,Stationery,3.39,1,0.15,2.25,2.88,2.25,0.63
+10613,2025-05-16,East,Retail,Backpack,Accessories,82.77,2,0.0,58.51,165.54,117.03,48.51
+10336,2025-05-16,East,Retail,Coffee Maker,Home,133.57,1,0.0,99.79,133.57,99.79,33.78
+10046,2025-05-17,West,Retail,Notebook,Stationery,3.82,1,0.2,2.96,3.06,2.96,0.1
+10136,2025-05-17,South,Online,Laptop,Electronics,1122.76,4,0.0,719.95,4491.04,2879.8,1611.24
+10794,2025-05-18,East,Online,Laptop,Electronics,1053.19,1,0.0,707.56,1053.19,707.56,345.63
+10054,2025-05-18,South,Online,Coffee Maker,Home,125.92,3,0.0,71.78,377.76,215.35,162.41
+11026,2025-05-19,South,Partner,Headphones,Accessories,124.97,1,0.15,91.81,106.22,91.81,14.41
+10999,2025-05-19,West,Retail,Backpack,Accessories,68.26,1,0.0,51.31,68.26,51.31,16.95
+11141,2025-05-19,West,Online,Headphones,Accessories,115.23,1,0.0,69.58,115.23,69.58,45.65
+11038,2025-05-19,West,Online,Office Chair,Furniture,143.98,1,0.2,78.05,115.18,78.05,37.13
+10638,2025-05-20,West,Retail,Blender,Home,100.69,1,0.15,67.84,85.59,67.84,17.75
+10809,2025-05-20,South,Online,Desk,Furniture,267.25,2,0.0,151.1,534.5,302.2,232.3
+10034,2025-05-20,North,Retail,Headphones,Accessories,93.2,2,0.0,62.17,186.4,124.34,62.06
+10346,2025-05-20,West,Retail,Notebook,Stationery,4.16,1,0.0,2.43,4.16,2.43,1.73
+10661,2025-05-20,West,Online,Headphones,Accessories,132.59,1,0.0,70.59,132.59,70.59,62.0
+10365,2025-05-21,South,Retail,Coffee Maker,Home,115.85,3,0.2,60.05,278.04,180.16,97.88
+10671,2025-05-21,North,Retail,Smartphone,Electronics,627.16,1,0.0,416.67,627.16,416.67,210.49
+11279,2025-05-21,West,Retail,Notebook,Stationery,7.44,2,0.0,5.26,14.88,10.52,4.36
+10983,2025-05-22,South,Online,Blender,Home,98.6,1,0.15,69.33,83.81,69.33,14.48
+11111,2025-05-22,East,Partner,Smartphone,Electronics,596.69,1,0.1,454.62,537.02,454.62,82.4
+11086,2025-05-23,North,Partner,Blender,Home,56.63,1,0.15,39.55,48.14,39.55,8.59
+11272,2025-05-23,North,Retail,Headphones,Accessories,139.72,2,0.1,83.43,251.5,166.85,84.65
+10248,2025-05-23,North,Online,Office Chair,Furniture,202.08,2,0.05,116.17,383.95,232.34,151.61
+10433,2025-05-23,North,Retail,Blender,Home,79.71,2,0.0,50.68,159.42,101.35,58.07
+11531,2025-05-24,West,Retail,Headphones,Accessories,83.82,2,0.0,46.52,167.64,93.03,74.61
+10288,2025-05-24,South,Retail,Headphones,Accessories,109.31,2,0.0,80.24,218.62,160.48,58.14
+11477,2025-05-24,West,Retail,Office Chair,Furniture,179.61,1,0.0,119.94,179.61,119.94,59.67
+10944,2025-05-24,East,Online,Office Chair,Furniture,211.0,1,0.1,153.61,189.9,153.61,36.29
+10645,2025-05-25,East,Online,Coffee Maker,Home,52.45,2,0.1,27.4,94.41,54.8,39.61
+10972,2025-05-25,West,Retail,Laptop,Electronics,1247.06,1,0.0,946.12,1247.06,946.12,300.94
+10430,2025-05-25,East,Retail,Notebook,Stationery,6.73,1,0.0,5.22,6.73,5.22,1.51
+11295,2025-05-26,West,Retail,Headphones,Accessories,115.12,1,0.05,83.46,109.36,83.46,25.9
+11361,2025-05-26,South,Online,Coffee Maker,Home,164.14,1,0.05,93.16,155.93,93.16,62.77
+11306,2025-05-26,West,Retail,Backpack,Accessories,59.74,1,0.0,36.82,59.74,36.82,22.92
+10967,2025-05-26,East,Online,Backpack,Accessories,52.29,1,0.2,37.17,41.83,37.17,4.66
+11282,2025-05-27,South,Retail,Office Chair,Furniture,238.33,1,0.0,120.08,238.33,120.08,118.25
+11495,2025-05-27,South,Partner,Office Chair,Furniture,196.93,1,0.0,143.65,196.93,143.65,53.28
+10743,2025-05-27,North,Retail,Notebook,Stationery,7.09,1,0.0,3.48,7.09,3.48,3.61
+11228,2025-05-28,East,Online,Office Chair,Furniture,210.08,1,0.0,111.39,210.08,111.39,98.69
+11223,2025-05-29,North,Online,Notebook,Stationery,2.85,3,0.1,2.19,7.7,6.56,1.14
+11338,2025-05-29,North,Online,Coffee Maker,Home,173.21,2,0.1,119.55,311.78,239.1,72.68
+10616,2025-05-30,West,Retail,Blender,Home,59.89,1,0.1,40.75,53.9,40.75,13.15
+11547,2025-05-30,North,Retail,Headphones,Accessories,59.43,1,0.0,42.42,59.43,42.42,17.01
+10910,2025-05-31,East,Online,Headphones,Accessories,48.13,1,0.1,25.13,43.32,25.13,18.19
+11052,2025-05-31,West,Online,Smartphone,Electronics,697.52,2,0.0,410.6,1395.04,821.19,573.85
+10192,2025-06-01,North,Retail,Headphones,Accessories,56.66,1,0.0,27.76,56.66,27.76,28.9
+11470,2025-06-01,North,Retail,Smartphone,Electronics,573.87,3,0.0,289.84,1721.61,869.53,852.08
+10155,2025-06-02,West,Retail,Smartphone,Electronics,814.88,1,0.15,611.77,692.65,611.77,80.88
+10755,2025-06-02,East,Online,Blender,Home,35.97,1,0.0,17.32,35.97,17.32,18.65
+10678,2025-06-02,South,Retail,Desk,Furniture,231.52,1,0.0,159.47,231.52,159.47,72.05
+11314,2025-06-02,West,Retail,Laptop,Electronics,978.6,2,0.2,574.76,1565.76,1149.52,416.24
+11155,2025-06-04,East,Online,Desk,Furniture,141.32,2,0.1,97.29,254.38,194.59,59.79
+10918,2025-06-05,East,Retail,Smartphone,Electronics,678.76,1,0.0,334.92,678.76,334.92,343.84
+11005,2025-06-06,North,Retail,Coffee Maker,Home,101.34,1,0.15,76.06,86.14,76.06,10.08
+10889,2025-06-07,East,Retail,Smartphone,Electronics,573.59,4,0.0,399.75,2294.36,1598.99,695.37
+11321,2025-06-08,North,Retail,Desk,Furniture,320.76,2,0.0,203.14,641.52,406.27,235.25
+11017,2025-06-08,North,Online,Blender,Home,58.6,2,0.0,38.28,117.2,76.57,40.63
+10891,2025-06-09,South,Retail,Headphones,Accessories,109.36,1,0.0,72.07,109.36,72.07,37.29
+10145,2025-06-09,East,Online,Office Chair,Furniture,127.7,2,0.1,84.03,229.86,168.06,61.8
+10472,2025-06-09,South,Partner,Office Chair,Furniture,121.75,1,0.0,59.53,121.75,59.53,62.22
+11407,2025-06-10,North,Online,Backpack,Accessories,87.76,2,0.0,56.24,175.52,112.49,63.03
+10418,2025-06-10,East,Retail,Notebook,Stationery,5.36,1,0.15,2.73,4.56,2.73,1.83
+10420,2025-06-10,South,Online,Backpack,Accessories,78.75,1,0.0,58.24,78.75,58.24,20.51
+11210,2025-06-11,South,Online,Office Chair,Furniture,183.01,1,0.1,140.37,164.71,140.37,24.34
+11229,2025-06-11,West,Online,Backpack,Accessories,88.9,1,0.1,53.08,80.01,53.08,26.93
+10041,2025-06-12,North,Retail,Office Chair,Furniture,95.47,1,0.0,72.78,95.47,72.78,22.69
+11168,2025-06-12,North,Retail,Desk,Furniture,178.76,4,0.05,108.27,679.29,433.09,246.2
+10298,2025-06-12,East,Partner,Notebook,Stationery,7.53,1,0.0,5.16,7.53,5.16,2.37
+10575,2025-06-12,North,Partner,Notebook,Stationery,3.47,4,0.0,2.53,13.88,10.12,3.76
+10447,2025-06-13,North,Online,Backpack,Accessories,53.33,2,0.0,36.8,106.66,73.6,33.06
+11268,2025-06-13,East,Online,Backpack,Accessories,56.29,1,0.0,41.26,56.29,41.26,15.03
+11098,2025-06-14,South,Online,Notebook,Stationery,5.06,1,0.0,3.84,5.06,3.84,1.22
+11392,2025-06-14,North,Partner,Notebook,Stationery,6.91,1,0.0,4.45,6.91,4.45,2.46
+10670,2025-06-14,East,Online,Office Chair,Furniture,196.61,1,0.0,143.66,196.61,143.66,52.95
+10345,2025-06-14,South,Retail,Notebook,Stationery,3.44,1,0.0,1.78,3.44,1.78,1.66
+10614,2025-06-14,West,Online,Backpack,Accessories,37.45,2,0.15,21.38,63.67,42.75,20.92
+10269,2025-06-14,West,Retail,Smartphone,Electronics,493.79,1,0.0,340.9,493.79,340.9,152.89
+11551,2025-06-15,North,Online,Smartphone,Electronics,514.75,1,0.0,320.74,514.75,320.74,194.01
+10094,2025-06-15,South,Online,Headphones,Accessories,78.49,1,0.0,43.92,78.49,43.92,34.57
+10133,2025-06-15,South,Online,Coffee Maker,Home,93.49,1,0.0,72.68,93.49,72.68,20.81
+10499,2025-06-15,East,Online,Headphones,Accessories,102.59,2,0.0,64.53,205.18,129.06,76.12
+11057,2025-06-16,North,Online,Backpack,Accessories,40.03,1,0.0,26.69,40.03,26.69,13.34
+11471,2025-06-16,East,Online,Backpack,Accessories,37.01,1,0.0,20.7,37.01,20.7,16.31
+10619,2025-06-16,South,Retail,Smartphone,Electronics,523.57,1,0.0,290.72,523.57,290.72,232.85
+11079,2025-06-16,North,Online,Coffee Maker,Home,61.96,4,0.0,39.66,247.84,158.64,89.2
+10922,2025-06-17,South,Retail,Notebook,Stationery,3.9,1,0.1,2.23,3.51,2.23,1.28
+11213,2025-06-18,West,Retail,Desk,Furniture,113.74,2,0.0,64.98,227.48,129.96,97.52
+11537,2025-06-18,West,Online,Notebook,Stationery,6.47,2,0.0,3.79,12.94,7.59,5.35
+11482,2025-06-18,South,Online,Laptop,Electronics,901.46,1,0.2,604.8,721.17,604.8,116.37
+11289,2025-06-19,South,Retail,Office Chair,Furniture,98.73,1,0.0,48.79,98.73,48.79,49.94
+10578,2025-06-20,East,Online,Coffee Maker,Home,85.78,1,0.15,54.37,72.91,54.37,18.54
+10088,2025-06-20,South,Online,Office Chair,Furniture,137.49,1,0.0,81.88,137.49,81.88,55.61
+10930,2025-06-20,West,Online,Blender,Home,62.26,1,0.0,48.06,62.26,48.06,14.2
+10892,2025-06-21,East,Partner,Backpack,Accessories,75.65,2,0.05,56.52,143.74,113.04,30.7
+10667,2025-06-21,East,Online,Notebook,Stationery,7.49,1,0.0,4.66,7.49,4.66,2.83
+10637,2025-06-21,South,Online,Blender,Home,32.81,3,0.0,19.23,98.43,57.68,40.75
+10787,2025-06-22,North,Online,Notebook,Stationery,5.19,2,0.0,3.43,10.38,6.85,3.53
+10033,2025-06-22,East,Online,Headphones,Accessories,57.75,2,0.15,32.83,98.17,65.66,32.51
+10799,2025-06-22,South,Online,Blender,Home,117.86,1,0.0,78.71,117.86,78.71,39.15
+10049,2025-06-22,East,Online,Blender,Home,106.55,1,0.0,75.42,106.55,75.42,31.13
+11142,2025-06-23,West,Online,Notebook,Stationery,4.6,2,0.0,3.3,9.2,6.6,2.6
+10117,2025-06-24,West,Retail,Blender,Home,95.56,1,0.0,66.78,95.56,66.78,28.78
+11435,2025-06-25,South,Online,Smartphone,Electronics,730.66,1,0.0,395.77,730.66,395.77,334.89
+10838,2025-06-25,East,Retail,Backpack,Accessories,25.2,1,0.0,18.97,25.2,18.97,6.23
+11331,2025-06-25,West,Retail,Notebook,Stationery,6.28,1,0.0,4.57,6.28,4.57,1.71
+10927,2025-06-26,East,Online,Smartphone,Electronics,792.32,3,0.0,419.64,2376.96,1258.93,1118.03
+10174,2025-06-26,East,Retail,Backpack,Accessories,82.61,1,0.05,58.49,78.48,58.49,19.99
+10458,2025-06-26,West,Retail,Office Chair,Furniture,186.65,1,0.05,142.77,177.32,142.77,34.55
+10675,2025-06-26,South,Online,Coffee Maker,Home,129.07,1,0.0,65.1,129.07,65.1,63.97
+11403,2025-06-26,East,Retail,Backpack,Accessories,28.07,1,0.15,14.34,23.86,14.34,9.52
+10711,2025-06-26,East,Online,Backpack,Accessories,67.11,1,0.0,47.0,67.11,47.0,20.11
+10814,2025-06-26,West,Retail,Coffee Maker,Home,78.32,1,0.05,48.53,74.4,48.53,25.87
+10172,2025-06-27,North,Online,Desk,Furniture,238.89,1,0.0,131.96,238.89,131.96,106.93
+11117,2025-06-27,East,Online,Smartphone,Electronics,719.46,1,0.0,419.7,719.46,419.7,299.76
+10510,2025-06-27,East,Online,Smartphone,Electronics,616.69,2,0.1,315.87,1110.04,631.75,478.29
+10461,2025-06-27,East,Online,Coffee Maker,Home,77.78,1,0.05,60.17,73.89,60.17,13.72
+10973,2025-06-28,North,Online,Smartphone,Electronics,736.2,1,0.0,449.26,736.2,449.26,286.94
+11386,2025-06-29,South,Online,Laptop,Electronics,893.07,2,0.15,496.38,1518.22,992.75,525.47
+11067,2025-06-29,East,Retail,Office Chair,Furniture,113.01,1,0.0,86.52,113.01,86.52,26.49
+10482,2025-06-29,East,Retail,Smartphone,Electronics,760.33,1,0.0,486.68,760.33,486.68,273.65
+11202,2025-06-29,West,Partner,Desk,Furniture,115.44,2,0.15,85.9,196.25,171.8,24.45
+10483,2025-06-29,South,Online,Coffee Maker,Home,179.48,1,0.0,105.4,179.48,105.4,74.08
+10781,2025-06-29,West,Retail,Headphones,Accessories,115.82,1,0.0,58.6,115.82,58.6,57.22
+10450,2025-06-29,East,Retail,Coffee Maker,Home,154.29,1,0.0,101.34,154.29,101.34,52.95
+10533,2025-06-30,North,Online,Headphones,Accessories,63.79,3,0.0,34.09,191.37,102.28,89.09
+10834,2025-06-30,South,Online,Blender,Home,38.4,1,0.0,19.75,38.4,19.75,18.65
